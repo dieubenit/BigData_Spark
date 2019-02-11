@@ -74,13 +74,21 @@ public class Main {
 		// PARTIE II
 		//Question 1
 		//(a)
-		Dataset<Row> utilConnextionPoids = spark.sql("SELECT utilisateur_sourceAdomaine as utilisateur, (ordinateur_source,ordinateur_destination) as connexions, count(utilisateur_sourceAdomaine,(ordinateur_source,ordinateur_destination)) as poids from tab group by utilisateur_sourceAdomaine,(ordinateur_source,ordinateur_destination)");
+		//Dataset<Row> utilConnextionPoids = spark.sql("SELECT utilisateur_sourceAdomaine as utilisateur, concat(ordinateur_source,', ',ordinateur_destination) as connexions, count(utilisateur_sourceAdomaine,(ordinateur_source,ordinateur_destination)) as poids from tab group by utilisateur_sourceAdomaine,connexions");
 
 		//utilConnextionPoids.show(10,false);
-		//(b) TODO
-		Dataset<Row> utilEtConnextion=spark.sql("(SELECT utilisateur_sourceAdomaine as utilisateur_et_connexions from tab)UNION(SELECT ordinateur_source + ordinateur_destination as utilisateur_et_connexions from tab)");
+		
+		//(b)
+		//Dataset<Row> utilEtConnextion=spark.sql("(select utilisateur_sourceAdomaine as utilisateur_et_connexions from tab distinct) UNION (select concat(ordinateur_source,', ',ordinateur_destination) as utilisateur_et_connexions from tab distinct)");
 
-		utilConnextionPoids.show(100,false);
+		//utilEtConnextion.show(100,false);
+
+		//Question 2
+		//(a)
+		
+		//(b)
+		
+		
 		spark.close();
 	}
 	
