@@ -21,7 +21,7 @@ public class Main {
 		Logger.getLogger("org.apache").setLevel(Level.WARN);
 
 		//initialisation spark
-		System.setProperty("hadoop.home.dir", "C:\\winutil\\");
+		System.setProperty("hadoop.home.dir", "C:\\winutils\\");
 		
 		SparkSession spark = SparkSession
 				.builder()
@@ -75,12 +75,13 @@ public class Main {
 		//Question 1
 		//(a)
 		//Dataset<Row> utilConnextionPoids = spark.sql("SELECT utilisateur_sourceAdomaine as utilisateur, concat(ordinateur_source,', ',ordinateur_destination) as connexions, count(utilisateur_sourceAdomaine,(ordinateur_source,ordinateur_destination)) as poids from tab group by utilisateur_sourceAdomaine,connexions");
-
 		//utilConnextionPoids.show(10,false);
 		
 		//(b)
 		//Dataset<Row> utilEtConnextion=spark.sql("(select utilisateur_sourceAdomaine as utilisateur_et_connexions from tab distinct) UNION (select concat(ordinateur_source,', ',ordinateur_destination) as utilisateur_et_connexions from tab distinct)");
-
+		
+		//Dataset<Row> utilEtConnextion=listePaire("utilisateur_sourceAdomaine",combineColumn("ordinateur_source","ordinateur_destination"),"utilisateur_et_connexions");
+		
 		//utilEtConnextion.show(100,false);
 
 		//Question 2
@@ -92,6 +93,26 @@ public class Main {
 		spark.close();
 	}
 	
+	
+	
+	private Dataset<Row> relationPaire(String col1,String col2,String nomresultat1,String nomresultat2){
+		Dataset<Row> resultat=null;
+		
+		return resultat;
+	}
+	
+	private Dataset<Row> listePaire(String col1,String col2,String nomresultat){
+		Dataset<Row> resultat=null;
+		//resultat=spark.sql("(select "+col1+" as "+nomresultat+" from tab distinct) UNION (select "+col2+" as "+nomresultat+" from tab distinct)");
+
+		return resultat;
+	}
+	
+	private String combineColumn(String col1,String col2) {
+		String res;
+		res="concat("+col1+",', ',"+col2+")";
+		return res;
+	}
 	
 }
 
