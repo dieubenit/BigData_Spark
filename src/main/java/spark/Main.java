@@ -82,13 +82,25 @@ public class Main {
 		
 		//Dataset<Row> utilEtConnextion=listePaire("utilisateur_sourceAdomaine",combineColumn("ordinateur_source","ordinateur_destination"),"utilisateur_et_connexions");
 		
-		//utilEtConnextion.show(100,false);
+		//utilEtConnextion.show(20,false);
 
 		//Question 2
 		//(a)
+		//Dataset<Row> utilAthentificationPoids = spark.sql("SELECT utilisateur_sourceAdomaine as utilisateurs, concat(orientation_authentification,', ',succes_echec) as connexions, count(utilisateur_sourceAdomaine,(orientation_authentification,succes_echec)) as poids from tab group by utilisateur_sourceAdomaine,connexions");
+		//utilAthentificationPoids.show(1000,false);
 		
 		//(b)
+		//Dataset<Row> utilAthentification=spark.sql("(select utilisateur_sourceAdomaine as utilisateurs_et_connexions from tab distinct) UNION (select concat(ordinateur_source,', ',ordinateur_destination)  from tab distinct) UNION (select concat(orientation_authentification,', ',succes_echec)as utilisateurs_et_connexions from tab distinct)");
+		//utilAthentification.show(10,false);
 		
+		//Question 3
+		//(a)
+		//Dataset<Row> utilAthentificationConPoids = spark.sql("SELECT ordinateur_source as Machine_source, concat(utilisateur_sourceAdomaine,', ',succes_echec) as connexions, count(ordinateur_source,(utilisateur_sourceAdomaine,succes_echec)) as poids from tab group by ordinateur_source,connexions");
+		//utilAthentificationConPoids.show(2000,false);
+		
+		//(b)
+		//Dataset<Row> utilAthentificationCon=spark.sql("(select utilisateur_sourceAdomaine as utilisateur_et_connexions from tab distinct) UNION (select concat(utilisateur_sourceAdomaine,', ',succes_echec) as utilisateur_et_connexions from tab distinct)");
+		//utilAthentificationCon.show(200,false);
 		
 		spark.close();
 	}
