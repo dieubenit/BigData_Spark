@@ -11,6 +11,7 @@ import org.apache.spark.sql.Column;
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SparkSession;
+import org.apache.spark.sql.catalyst.expressions.aggregate.Count;
 import org.apache.spark.sql.types.StructType;
 
 public class Main {
@@ -67,6 +68,7 @@ public class Main {
 
 		//question 3
 		//Dataset<Row> utilMachine = spark.sql("SELECT count(utilisateur_sourceAdomaine,ordinateur_source) as count, (utilisateur_sourceAdomaine,ordinateur_source) as utilisateurparpc from tab group by (utilisateur_sourceAdomaine,ordinateur_source) order by count DESC");
+		df.groupBy("utilisateur_sourceAdomaine","ordinateur_source" ).count().orderBy(org.apache.spark.sql.functions.col("count").desc()).show(10);
 
 		//question 4
 		//utilMachine.show(10,false);
