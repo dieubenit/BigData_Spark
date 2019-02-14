@@ -21,7 +21,7 @@ public class MySpark {
 	private Dataset<Row> df;
 	public static final String winutilsLocation="C:\\winutils\\"; 
 	public static final String jsonDestinationFolder=".\\json\\"; 
-	public static final int temps=60; 
+	public static final int temps=1; 
 	public static final String[] colName= {"temps",
 			"utilisateur_sourceAdomaine",
 			"utilisateur_destinationAdomaine",
@@ -205,7 +205,7 @@ public class MySpark {
 		int length=df.schema().length();
 		String[] column=df.columns();
 		int t=0;
-		temp=df.filter(column[0]+">="+t+" AND "+column[0]+"<"+fenetreDeTemps);
+		temp=df.filter(column[0]+">"+t+" AND "+column[0]+"<="+fenetreDeTemps);
 		while(temp.count()>0) {
 			for(int i=1;i<length;i++) {
 				for(int j=1;j<length;j++) {
@@ -221,7 +221,7 @@ public class MySpark {
 				}
 			}
 			t+=fenetreDeTemps;
-			temp=df.filter(column[0]+">="+t+" AND "+column[0]+"<"+(t+fenetreDeTemps));
+			temp=df.filter(column[0]+">"+t+" AND "+column[0]+"<="+(t+fenetreDeTemps));
 		}
 	}
 
