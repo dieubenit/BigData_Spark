@@ -19,9 +19,7 @@ public class MySpark {
 
 	private SparkSession spark;
 	private Dataset<Row> df;
-	public static final String winutilsLocation="C:\\winutils\\"; 
 	public static final String jsonDestinationFolder=".\\json\\"; 
-	public static final int temps=60; 
 	public static final String[] colName= {"temps",
 			"utilisateur_sourceAdomaine",
 			"utilisateur_destinationAdomaine",
@@ -37,25 +35,61 @@ public class MySpark {
 
 		//filtrage des log
 		Logger.getLogger("org.apache").setLevel(Level.WARN);
-		//initialisation spark
-		System.setProperty("hadoop.home.dir", winutilsLocation);
+		
+		//gestion des 1ers arguments
+		String winutils ="C:\\winutils\\",tmp;
+		int temps=60;
+		if(args.length>=1) {
+			tmp=args[0];
+			if(!tmp.equals("-")) {
+				winutils=tmp;
+			}
+		}
 
-		//initiation de spark
+		//initialisation spark
+		System.setProperty("hadoop.home.dir", winutils);
+
 		MySpark ms= new MySpark();
 		Dataset<Row> df=ms.getDF();
-		
-		//suite partie 1
-		//ms.top10UtilOrdi();
 
-		//partie 2
-		//ms.partie2();
-		
-		//partie 3
-		//autoPaire(df);
-
-		//partie 4
-		//autoPaireTemps(df,temps);
-
+		//sélection de la partie du tp a traité
+		if(args.length>=2) {
+			switch (args[1]) {
+			case "1":
+				ms.top10UtilOrdi();
+				break;
+			case "2":
+				ms.partie2();
+				break;
+			case "3":
+				autoPaire(df);
+				break;
+			case "4":
+				if(args.length>=3) {
+					try{
+						temps=Integer.parseInt(args[2]);
+						if(temps<0) {
+							temps=60;
+						}
+					}catch (Exception e) {
+						System.out.println("Ereur, format attendus : mySpark [Numero_partie] [fenetre_temps]");
+					}
+				}
+				autoPaireTemps(df,temps);
+				break;
+			default :
+				ms.top10UtilOrdi();
+				ms.partie2();
+				autoPaire(df);
+				autoPaireTemps(df,temps);
+				break;
+			}
+		}else {
+			ms.top10UtilOrdi();
+			ms.partie2();
+			autoPaire(df);
+			autoPaireTemps(df,temps);
+		}
 		ms.closeSpark();
 	}
 
@@ -214,7 +248,7 @@ public class MySpark {
 							if(k!=i&&k!=j) {
 								System.out.println("paire "+t+" a "+(t+fenetreDeTemps)+" : ("+i+"("+j+","+k+"))");
 								resultat=relationPaire(df,column[i],column[j],column[k],column[i],column[j]+"AND"+column[k]);
-								resultat.write().json(jsonDestinationFolder+"paire "+t+" a "+(t+fenetreDeTemps)+"_"+i+"_"+j+"_"+k+"");
+								resultat.write().json(jsonDestinationFolder+"paire_"+t+"_a_"+(t+fenetreDeTemps)+"_"+i+"_"+j+"_"+k+"");
 							}
 						}
 					}
@@ -231,7 +265,7 @@ public class MySpark {
 		return df;
 	}
 
-	
+
 	public void closeSpark() {
 		spark.close();
 	}

@@ -10,7 +10,7 @@ Master : SIRAV
 ### 1. Introduction
 Le but de ce projet est d'analyser les logs d'authentifications aux machines. Ces données
 représentent les événements d'authentifications collectés à partir d'ordinateurs individuels
-de bureau et serveurs qui sont dotés du système d'exploitation Windows. Chaque événement se trouve sur une ligne distincte sous la forme : "temps, utilisateur_source@domaine, utilisateur_destination@domaine, ordinateur_source, ordinateur_destination, type d'authentificationscation, type de connexion, orientation d'authentificationscation, succès / échec" et représente un événement d'authentificationscation à l'instant donné.
+de bureau et serveurs qui sont dotés du système d'exploitation Windows. Chaque événement se trouve sur une ligne distincte sous la forme : "temps, utilisateur_source@domaine, utilisateur_destination@domaine, ordinateur_source, ordinateur_destination, type d'authentificationscation, type de connexion, orientation d'authentificationscation, succès / échec" et représente un événement d'authentificationscation à l'instant donné.<br>
 Voici cinq lignes de données à titre d'exemple :
 
 ````````bash
@@ -23,10 +23,18 @@ Voici cinq lignes de données à titre d'exemple :
 ### 2.1 Partie I
 
 ### Consigne :
-Changer le chemin de winutils si nécessaire.<br>
-Pour éxecuter les Partie 1 et 2, décommenter les fonction du même nom.<br>
-L'éxecution de la Partie 3 uniquement est aussi possible avec la même méthode.<br>
-L'application éxecute la Partie 4 par défault,possibilité de modifier la valeur static temps.
+Placer winutils dans C:\\winutils\\bin si nécessaire.(remplacez chemin_vers_winutils par - pour appeler le chemin par default) <br>
+Utilisation du programme :
+ > "mySpark.jar [- OU chemin_vers_winutils] [numero_partie] [fenetre_temp]" <br>
+mySpark lance toutes les parties en séquence par default si lancé sans argument ou <br> 
+seulement avec winutils ou avec l'argument numero_partie invalide.<br>
+exemples :<br>
+ > mySpark.jar - 1<br>
+lance la partie 1 avec winutils par default<br>
+ > mySpark.jar - 4<br>
+lance la partie 4 avec fenetre 60 par default<br>
+ > mySpark.jar - 4 10<br>
+lance la partie 4 avec fenetre 10<br>
 
 #### Question 1. Lire le fichier logs.
 `````
@@ -95,8 +103,9 @@ df= spark.read()
 `````
 
 #### Question 3. Calculons le nombre d'utilisation d'une machine (ordinateur_source) par un utilisateur (utilisateur_source@domaine).
-`````
-`````
+
+Cf. Question 4.<br>
+
 #### Question 4. Affichons le top 10 des accès les plus fréquents.
 `````
 
@@ -225,7 +234,13 @@ Nous avons trié par odre décroissant sur le poids.
 `````
 ### 2.3 Partie III
 ##### Objectif :
-La troisième partie consiste à généraliser la Partie II. Le but est de calculer pour chaque colonne, la relation entre chaque paires de colonnes du jeu de données.
+La troisième partie consiste à généraliser la Partie II. Le but est de calculer pour chaque colonne, la relation entre chaque paires de colonnes du jeu de données.<br>
+
+Exemple de résultat d'éxecution dans le dossier json. <br>
+Format : paire_1_2_3<br>
 
 ### 2.4 Partie IV
-Contrairement à la partie III, dans cette partie le temps est pris en considération. En effet, cette partie consiste à calculer la Partie III pour chaque fenêtre (période) temporelle fixée au préalable.
+Contrairement à la partie III, dans cette partie le temps est pris en considération. En effet, cette partie consiste à calculer la Partie III pour chaque fenêtre (période) temporelle fixée au préalable.<br>
+
+Exemple de résultat d'éxecution dans le dossier json.<br>
+Format : paire_0_a_60_1_2_3<br>
