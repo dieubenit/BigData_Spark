@@ -23,8 +23,8 @@ Voici cinq lignes de données à titre d'exemple :
 ### 2.1 Partie I
 
 ### Consigne :
-Lien github pour les sources : https://github.com/dieubenit/BigData_Spark
-Lien fichier jar : upload en cours...
+Lien github pour les sources : https://github.com/dieubenit/BigData_Spark	<br>
+Lien fichier jar : upload en cours...	<br>
 Placer winutils dans C:\\winutils\\bin si nécessaire.(remplacez chemin_vers_winutils par - pour appeler le chemin par default) <br>
 Placer le fichier jar dans le même dossier que auth_500000.txt.<br>
 Utilisation du programme : <br>
