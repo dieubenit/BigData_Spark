@@ -21,8 +21,8 @@ Voici trois lignes de données à titre d'exemple :
 4,C600$@DOM1,U147@DOM1,C600,C600,Negotiate,Batch,LogOn,Success
 ````````
 ### 2.1 Partie I
-```bash
-```
+``
+``
 ### Consigne :
 Changer le chemin de winutils si nécessaire.<br>
 Pour éxecuter les Partie 1 et 2, décommenter les fonction du même nom.<br>
