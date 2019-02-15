@@ -149,7 +149,7 @@ public class MySpark {
 	//suite de la partie 1
 	private void top10UtilOrdi() {
 		//affichage de la table créée question 1+2
-		System.out.println("Table générée :");
+		System.out.println("Question 1&2 : Table générée :");
 		spark.sql("select * from "+MainTab).show();
 		//question 3
 		Dataset<Row> utilMachine = spark.sql("SELECT count("+colName[1]+", "+colName[3]+") as count,"
@@ -157,7 +157,7 @@ public class MySpark {
 				+" group by utilisateur_par_pc order by count DESC");
 
 		//question 4
-		System.out.println("Top 10 Utilisateur par Ordinateur");
+		System.out.println("Question 3&4 : Top 10 Utilisateur par Ordinateur");
 		utilMachine.show(10,false);
 
 	}
@@ -165,38 +165,40 @@ public class MySpark {
 	private void partie2() {
 		//PATTIE II
 		//Question 1
-		System.out.println("nombre de connexions par utilisateur par paire machine source/destination :\n");
+		System.out.println("Partie II :\nQuestion 1.a : nombre de connexions par utilisateur par paire machine source/destination :\n");
 		//(a)
 		Dataset<Row> utilConnextionPoids = this.relationPaire(df,colName[1],colName[3],colName[4] ,"utilisateur", "connexions_sur_machines"); 
 		//spark.sql("SELECT utilisateur_sourceAdomaine as utilisateur, concat(ordinateur_source,', ',ordinateur_destination) as connexions, count(utilisateur_sourceAdomaine,(ordinateur_source,ordinateur_destination)) as poids from tab group by utilisateur_sourceAdomaine,connexions");
 		utilConnextionPoids.show(10,false);
 		//(b)
-
+		System.out.println("Question 1.b");
 		Dataset<Row> utilEtConnextion=this.listePaire(df,colName[1],colName[3],colName[4],"utilisateur_et_connexions_sur_machines");
 		//spark.sql("(select utilisateur_sourceAdomaine as utilisateur_et_connexions from tab distinct) UNION (select concat(ordinateur_source,', ',ordinateur_destination) as utilisateur_et_connexions from tab distinct)");
 		utilEtConnextion.show(10,false);
 
 
 		//Question 2
-		System.out.println("nombre d'authentification avec/sans succes par utilisateur :\n");
+		System.out.println("Question 2.a : nombre d'authentification avec/sans succes par utilisateur :\n");
 		//(a)
 		Dataset<Row> utilAthentificationPoids = this.relationPaire(df,colName[1],colName[7],colName[8] ,"utilisateur", "authentification_succes"); 
 		//spark.sql("SELECT utilisateur_sourceAdomaine as utilisateurs, concat(orientation_authentification,', ',succes_echec) as connexions, count(utilisateur_sourceAdomaine,(orientation_authentification,succes_echec)) as poids from tab group by utilisateur_sourceAdomaine,connexions");
 		utilAthentificationPoids.show(10,false);
 
 		//(b)
+		System.out.println("Question 2.b");
 		Dataset<Row> utilAthentification=this.listePaire(df,colName[1],colName[7],colName[8],"utilisateur_et_authentification_succes");
 		//spark.sql("(select utilisateur_sourceAdomaine as utilisateurs_et_connexions from tab distinct) UNION (select concat(ordinateur_source,', ',ordinateur_destination)  from tab distinct) UNION (select concat(orientation_authentification,', ',succes_echec)as utilisateurs_et_connexions from tab distinct)");
 		utilAthentification.show(10,false);
 
 		//Question 3
-		System.out.println("nombre d'authentification avec/sans succes pour chaque machine par utilisateur + succes :\n");
+		System.out.println("Question 3.a : nombre d'authentification avec/sans succes pour chaque machine par utilisateur + succes :\n");
 		//(a)
 		Dataset<Row> utilAthentificationConPoids = this.relationPaire(df,colName[3],colName[1],colName[8] ,"machine_source", "utilisateur_succes");
 		//spark.sql("SELECT ordinateur_source as Machine_source, concat(utilisateur_sourceAdomaine,', ',succes_echec) as connexions, count(ordinateur_source,(utilisateur_sourceAdomaine,succes_echec)) as poids from tab group by ordinateur_source,connexions");
 		utilAthentificationConPoids.show(10,false);
 
 		//(b)
+		System.out.println("Question 3.b");
 		Dataset<Row> utilAthentificationCon= this.listePaire(df,colName[3],colName[1],colName[8] ,"machine_source_et_utilisateur_succes");
 		//spark.sql("(select ordinateur_source as utilisateur_et_connexions from tab distinct) UNION (select concat(utilisateur_sourceAdomaine,', ',succes_echec) as utilisateur_et_connexions from tab distinct)");
 		utilAthentificationCon.show(10,false);
@@ -222,6 +224,7 @@ public class MySpark {
 	}
 
 	public static void autoPaire(Dataset<Row> df) {
+		System.out.println("Partie III :");
 		Dataset<Row> resultat=null;
 		int length=df.schema().length();
 		String[] column=df.columns();
@@ -241,6 +244,7 @@ public class MySpark {
 	}
 
 	public static void autoPaireTemps(Dataset<Row> df,int fenetreDeTemps) {
+		System.out.println("Partie IV :");
 		Dataset<Row> resultat=null,temp=null;
 		int length=df.schema().length();
 		String[] column=df.columns();
