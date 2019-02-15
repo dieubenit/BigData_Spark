@@ -243,4 +243,4 @@ Format : paire_1_2_3<br>
 Contrairement à la partie III, dans cette partie le temps est pris en considération. En effet, cette partie consiste à calculer la Partie III pour chaque fenêtre (période) temporelle fixée au préalable.<br>
 
 Exemple de résultat d'éxecution dans le dossier json.<br>
-Format : paire_0_a_60_1_2_3<br>
+Format : paire_0_a_10_1_2_3<br>
