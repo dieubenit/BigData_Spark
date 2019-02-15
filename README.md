@@ -118,7 +118,7 @@ Top 10 Utilisateur par Ordinateur
 `````
 ###  2.2 Partie II
 ### Consigne:
-
+Pour plus de clarté dans les l'affichage du poid. Donc il fait au sorte que les poids soient afficher par ordre décroissante.
 #### Question 1-a)
 `````
 +------------+-----------+-----+
