@@ -28,7 +28,7 @@ L'éxecution de la Partie 3 uniquement est aussi possible avec la même méthode
 L'application éxecute la Partie 4 par défault,possibilité de modifier la valeur static temps.
 
 #### Question 1. Lire le fichier logs.
-``````````python
+`````
 df= spark.read()
 				.option("header", "true")
 				.option("delimiter", ",")
@@ -65,9 +65,9 @@ df= spark.read()
 
     +-----+--------------------------+-------------------------------+-----------------+----------------------+---------------------+-----------------+----------------------------+------------+
 
-````````````
+`````
 #### Question 2. Suppression des lignes de logs qui contiennent le symbole ' ?'.
-````````python
+`````
 |temps|utilisateur_sourceAdomaine|utilisateur_destinationAdomaine|ordinateur_source|ordinateur_destination|type_authentification|type_de_connexion|orientation_authentification|succes_echec|
 +-----+--------------------------+-------------------------------+-----------------+----------------------+---------------------+-----------------+----------------------------+------------+
 |    1|               C1020$@DOM1|                   SYSTEM@C1020|            C1020|                 C1020|            Negotiate|          Service|                       LogOn|     Success|
@@ -91,13 +91,13 @@ df= spark.read()
 |    1|               C1504$@DOM1|                      U45@C1504|            C1504|                 C1504|            Negotiate|            Batch|                       LogOn|     Success|
 |    1|               C1543$@DOM1|                   SYSTEM@C1543|            C1543|                 C1543|            Negotiate|          Service|                       LogOn|     Success|
 +-----+--------------------------+-------------------------------+-----------------+----------------------+---------------------+-----------------+----------------------------+------------+
-````````
+`````
 
 #### Question 3. Calculons le nombre d'utilisation d'une machine (ordinateur_source) par un utilisateur (utilisateur_source@domaine).
-````````python
-````````
+`````
+`````
 #### Question 4. Affichons le top 10 des accès les plus fréquents.
-````````python
+`````
 
 Top 10 Utilisateur par Ordinateur
 +-----+------------------+
@@ -114,26 +114,26 @@ Top 10 Utilisateur par Ordinateur
 |1930 |C538$@DOM1, C539  |
 |1907 |U22@DOM1, C506    |
 +-----+------------------+
-````````
+`````
 ###  2.2 Partie II
 #### Question 1-a)
-````````python
-````````
+`````
+`````
 #### Question 1-b)
 ````````python
 ````````
 #### Question 2-a)
-````````python
-````````
+`````
+`````
 #### Question 2-b)
 ````````python
 ````````
 #### Question 3-a)
-````````python
-````````
+`````
+`````
 #### Question 2-b)
-````````python
-````````
+`````
+`````
 ### 2.3 Partie III
 ##### Objectif :
 La troisième partie consiste à généraliser la Partie II. Le but est de calculer pour chaque colonne, la relation entre chaque paires de colonnes du jeu de données.
