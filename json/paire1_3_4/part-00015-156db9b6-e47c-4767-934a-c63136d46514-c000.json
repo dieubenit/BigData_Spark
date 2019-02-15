@@ -1,0 +1,499 @@
+{"utilisateur_sourceAdomaine":"C753$@DOM1","ordinateur_sourceANDordinateur_destination":"C753, C586","poids":10}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C956","ordinateur_sourceANDordinateur_destination":"C956, C956","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C3424, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C3801, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C408$@DOM1","ordinateur_sourceANDordinateur_destination":"C408, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C487$@DOM1","ordinateur_sourceANDordinateur_destination":"C487, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C1387$@DOM1","ordinateur_sourceANDordinateur_destination":"C1387, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1746$@DOM1","ordinateur_sourceANDordinateur_destination":"C1746, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1303$@DOM1","ordinateur_sourceANDordinateur_destination":"C1303, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5194$@DOM1","ordinateur_sourceANDordinateur_destination":"C5194, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C4681$@DOM1","ordinateur_sourceANDordinateur_destination":"C4682, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C141$@DOM1","ordinateur_sourceANDordinateur_destination":"C141, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C1947$@DOM1","ordinateur_sourceANDordinateur_destination":"C1947, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C759$@DOM1","ordinateur_sourceANDordinateur_destination":"C759, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C3824$@DOM1","ordinateur_sourceANDordinateur_destination":"C3824, C528","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1048, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C543$@DOM1","ordinateur_sourceANDordinateur_destination":"C543, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1940$@DOM1","ordinateur_sourceANDordinateur_destination":"C1940, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C180$@DOM1","ordinateur_sourceANDordinateur_destination":"C180, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C36$@DOM1","ordinateur_sourceANDordinateur_destination":"C36, C612","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C467","ordinateur_sourceANDordinateur_destination":"C2760, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C5369$@DOM1","ordinateur_sourceANDordinateur_destination":"C5369, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C85$@DOM1","ordinateur_sourceANDordinateur_destination":"C85, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1773$@DOM1","ordinateur_sourceANDordinateur_destination":"C1774, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C3036$@DOM1","ordinateur_sourceANDordinateur_destination":"C3036, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2938$@DOM1","ordinateur_sourceANDordinateur_destination":"C2938, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C918$@DOM1","ordinateur_sourceANDordinateur_destination":"C918, C467","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C213, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C363, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1010$@DOM1","ordinateur_sourceANDordinateur_destination":"C1010, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C5208$@DOM1","ordinateur_sourceANDordinateur_destination":"C5208, C528","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C498, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1346$@DOM1","ordinateur_sourceANDordinateur_destination":"C1346, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C2804$@DOM1","ordinateur_sourceANDordinateur_destination":"C2804, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C5410$@DOM1","ordinateur_sourceANDordinateur_destination":"C5410, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C3148$@DOM1","ordinateur_sourceANDordinateur_destination":"C3148, C625","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1454, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C179$@DOM1","ordinateur_sourceANDordinateur_destination":"C179, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C297$@DOM1","ordinateur_sourceANDordinateur_destination":"C297, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C625","ordinateur_sourceANDordinateur_destination":"C972, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1742$@DOM1","ordinateur_sourceANDordinateur_destination":"C1742, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C3530$@DOM1","ordinateur_sourceANDordinateur_destination":"C3530, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C2935$@DOM1","ordinateur_sourceANDordinateur_destination":"C2935, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1359$@DOM1","ordinateur_sourceANDordinateur_destination":"C1359, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C505$@DOM1","ordinateur_sourceANDordinateur_destination":"C505, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C4887$@DOM1","ordinateur_sourceANDordinateur_destination":"C4887, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C974$@DOM1","ordinateur_sourceANDordinateur_destination":"C974, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C2386$@DOM1","ordinateur_sourceANDordinateur_destination":"C2387, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C448$@DOM1","ordinateur_sourceANDordinateur_destination":"C448, C612","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C2670, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C520$@DOM1","ordinateur_sourceANDordinateur_destination":"C520, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C504$@DOM1","ordinateur_sourceANDordinateur_destination":"C504, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C226$@DOM1","ordinateur_sourceANDordinateur_destination":"C226, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C363$@DOM1","ordinateur_sourceANDordinateur_destination":"C363, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1895$@DOM1","ordinateur_sourceANDordinateur_destination":"C1895, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1285$@DOM1","ordinateur_sourceANDordinateur_destination":"C1285, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C457","ordinateur_sourceANDordinateur_destination":"C4760, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C1942$@DOM1","ordinateur_sourceANDordinateur_destination":"C1942, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C2640$@DOM1","ordinateur_sourceANDordinateur_destination":"C2640, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5092$@DOM1","ordinateur_sourceANDordinateur_destination":"C5092, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C406$@DOM1","ordinateur_sourceANDordinateur_destination":"C406, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C3840$@DOM1","ordinateur_sourceANDordinateur_destination":"C3840, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C2029$@DOM1","ordinateur_sourceANDordinateur_destination":"C2029, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1455$@DOM1","ordinateur_sourceANDordinateur_destination":"C1455, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C1553$@DOM1","ordinateur_sourceANDordinateur_destination":"C1553, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C3098$@DOM1","ordinateur_sourceANDordinateur_destination":"C3098, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C174$@DOM1","ordinateur_sourceANDordinateur_destination":"C174, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C91$@DOM1","ordinateur_sourceANDordinateur_destination":"C91, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C2849$@DOM1","ordinateur_sourceANDordinateur_destination":"C2849, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C2277$@DOM1","ordinateur_sourceANDordinateur_destination":"C2277, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C2390$@DOM1","ordinateur_sourceANDordinateur_destination":"C2390, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C901$@DOM1","ordinateur_sourceANDordinateur_destination":"C901, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C5450$@DOM1","ordinateur_sourceANDordinateur_destination":"C5450, C743","poids":10}
+{"utilisateur_sourceAdomaine":"C3342$@DOM1","ordinateur_sourceANDordinateur_destination":"C3342, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1358$@DOM1","ordinateur_sourceANDordinateur_destination":"C1358, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C2850$@DOM1","ordinateur_sourceANDordinateur_destination":"C2850, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C909$@DOM1","ordinateur_sourceANDordinateur_destination":"C909, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C4998$@DOM1","ordinateur_sourceANDordinateur_destination":"C4998, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C1206$@DOM1","ordinateur_sourceANDordinateur_destination":"C1206, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C560$@DOM1","ordinateur_sourceANDordinateur_destination":"C560, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C378, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1173$@DOM1","ordinateur_sourceANDordinateur_destination":"C1173, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C1471$@DOM1","ordinateur_sourceANDordinateur_destination":"C1471, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C433$@DOM1","ordinateur_sourceANDordinateur_destination":"C1065, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C2577, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5283$@DOM1","ordinateur_sourceANDordinateur_destination":"C5283, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C1880$@DOM1","ordinateur_sourceANDordinateur_destination":"C1880, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C4200$@DOM1","ordinateur_sourceANDordinateur_destination":"C4200, C2106","poids":10}
+{"utilisateur_sourceAdomaine":"C229$@DOM1","ordinateur_sourceANDordinateur_destination":"C229, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C347$@DOM1","ordinateur_sourceANDordinateur_destination":"C347, C467","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C763, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1374, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C3509$@DOM1","ordinateur_sourceANDordinateur_destination":"C3509, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C2459$@DOM1","ordinateur_sourceANDordinateur_destination":"C2459, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C529$@DOM1","ordinateur_sourceANDordinateur_destination":"C529, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C933, C586","poids":10}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2551","ordinateur_sourceANDordinateur_destination":"C2551, C2551","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C2957, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C963$@DOM1","ordinateur_sourceANDordinateur_destination":"C963, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C3181$@DOM1","ordinateur_sourceANDordinateur_destination":"C3181, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C1298$@DOM1","ordinateur_sourceANDordinateur_destination":"C1298, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C4979$@DOM1","ordinateur_sourceANDordinateur_destination":"C4979, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1505$@DOM1","ordinateur_sourceANDordinateur_destination":"C1505, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C578$@DOM1","ordinateur_sourceANDordinateur_destination":"C578, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C534$@DOM1","ordinateur_sourceANDordinateur_destination":"C534, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2146$@DOM1","ordinateur_sourceANDordinateur_destination":"C2146, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C5170$@DOM1","ordinateur_sourceANDordinateur_destination":"C5170, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C3297$@DOM1","ordinateur_sourceANDordinateur_destination":"C3297, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C3413$@DOM1","ordinateur_sourceANDordinateur_destination":"C3413, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C1225$@DOM1","ordinateur_sourceANDordinateur_destination":"C1225, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C1759$@DOM1","ordinateur_sourceANDordinateur_destination":"C1759, C457","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C1065","ordinateur_sourceANDordinateur_destination":"C385, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C612","ordinateur_sourceANDordinateur_destination":"C1771, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C5476$@DOM1","ordinateur_sourceANDordinateur_destination":"C5476, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C270$@DOM1","ordinateur_sourceANDordinateur_destination":"C270, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C4010$@DOM1","ordinateur_sourceANDordinateur_destination":"C4010, C2106","poids":10}
+{"utilisateur_sourceAdomaine":"C868$@DOM1","ordinateur_sourceANDordinateur_destination":"C868, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C29$@DOM1","ordinateur_sourceANDordinateur_destination":"C29, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2540$@DOM1","ordinateur_sourceANDordinateur_destination":"C2540, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C4915$@DOM1","ordinateur_sourceANDordinateur_destination":"C4915, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1420, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C434$@DOM1","ordinateur_sourceANDordinateur_destination":"C434, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1849$@DOM1","ordinateur_sourceANDordinateur_destination":"C1849, C528","poids":10}
+{"utilisateur_sourceAdomaine":"U145@DOM1","ordinateur_sourceANDordinateur_destination":"C2608, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1969$@DOM1","ordinateur_sourceANDordinateur_destination":"C1969, C625","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C467","ordinateur_sourceANDordinateur_destination":"C639, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C1888$@DOM1","ordinateur_sourceANDordinateur_destination":"C1888, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C810$@DOM1","ordinateur_sourceANDordinateur_destination":"C810, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C4332$@DOM1","ordinateur_sourceANDordinateur_destination":"C4333, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1345, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1309$@DOM1","ordinateur_sourceANDordinateur_destination":"C1309, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C4460$@DOM1","ordinateur_sourceANDordinateur_destination":"C4461, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C3256$@DOM1","ordinateur_sourceANDordinateur_destination":"C3256, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C2955$@DOM1","ordinateur_sourceANDordinateur_destination":"C2955, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1255, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C3969$@DOM1","ordinateur_sourceANDordinateur_destination":"C3970, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C4440$@DOM1","ordinateur_sourceANDordinateur_destination":"C4440, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1951$@DOM1","ordinateur_sourceANDordinateur_destination":"C1951, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1441, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5086$@DOM1","ordinateur_sourceANDordinateur_destination":"C5086, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C5574$@DOM1","ordinateur_sourceANDordinateur_destination":"C5574, C612","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1250, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5028$@DOM1","ordinateur_sourceANDordinateur_destination":"C5028, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C1296$@DOM1","ordinateur_sourceANDordinateur_destination":"C1296, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1988$@DOM1","ordinateur_sourceANDordinateur_destination":"C1988, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C5268$@DOM1","ordinateur_sourceANDordinateur_destination":"C5224, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C2032$@DOM1","ordinateur_sourceANDordinateur_destination":"C2032, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C545$@DOM1","ordinateur_sourceANDordinateur_destination":"C545, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1365, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1263$@DOM1","ordinateur_sourceANDordinateur_destination":"C1263, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C855$@DOM1","ordinateur_sourceANDordinateur_destination":"C855, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1174$@DOM1","ordinateur_sourceANDordinateur_destination":"C1174, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C3424$@DOM1","ordinateur_sourceANDordinateur_destination":"C3424, C586","poids":10}
+{"utilisateur_sourceAdomaine":"U292@DOM1","ordinateur_sourceANDordinateur_destination":"C1737, C1737","poids":10}
+{"utilisateur_sourceAdomaine":"C711$@DOM1","ordinateur_sourceANDordinateur_destination":"C711, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C3037$@DOM1","ordinateur_sourceANDordinateur_destination":"C3037, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5635$@DOM1","ordinateur_sourceANDordinateur_destination":"C5635, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C48$@DOM1","ordinateur_sourceANDordinateur_destination":"C48, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1548$@DOM1","ordinateur_sourceANDordinateur_destination":"C1548, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C529","ordinateur_sourceANDordinateur_destination":"C2527, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5151$@DOM1","ordinateur_sourceANDordinateur_destination":"C5151, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C2513$@DOM1","ordinateur_sourceANDordinateur_destination":"C2505, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C3801$@DOM1","ordinateur_sourceANDordinateur_destination":"C3801, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C455$@DOM1","ordinateur_sourceANDordinateur_destination":"C455, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2823$@DOM1","ordinateur_sourceANDordinateur_destination":"C2823, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C5227$@DOM1","ordinateur_sourceANDordinateur_destination":"C5227, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C688$@DOM1","ordinateur_sourceANDordinateur_destination":"C688, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C3810$@DOM1","ordinateur_sourceANDordinateur_destination":"C3810, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1925$@DOM1","ordinateur_sourceANDordinateur_destination":"C1925, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C2888$@DOM1","ordinateur_sourceANDordinateur_destination":"C2888, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C914$@DOM1","ordinateur_sourceANDordinateur_destination":"C914, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C596$@DOM1","ordinateur_sourceANDordinateur_destination":"C596, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C4104$@DOM1","ordinateur_sourceANDordinateur_destination":"C4104, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C531$@DOM1","ordinateur_sourceANDordinateur_destination":"C531, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C355$@DOM1","ordinateur_sourceANDordinateur_destination":"C355, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1242$@DOM1","ordinateur_sourceANDordinateur_destination":"C1242, C528","poids":10}
+{"utilisateur_sourceAdomaine":"U189@DOM1","ordinateur_sourceANDordinateur_destination":"C2300, C2106","poids":10}
+{"utilisateur_sourceAdomaine":"C5630$@DOM1","ordinateur_sourceANDordinateur_destination":"C5630, C457","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C590, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1009, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C496$@DOM1","ordinateur_sourceANDordinateur_destination":"C496, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2734$@DOM1","ordinateur_sourceANDordinateur_destination":"C2734, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C922$@DOM1","ordinateur_sourceANDordinateur_destination":"C922, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C3745$@DOM1","ordinateur_sourceANDordinateur_destination":"C3745, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C200$@DOM1","ordinateur_sourceANDordinateur_destination":"C200, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1040$@DOM1","ordinateur_sourceANDordinateur_destination":"C1040, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C3127$@DOM1","ordinateur_sourceANDordinateur_destination":"C3127, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2024$@DOM1","ordinateur_sourceANDordinateur_destination":"C2024, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1720$@DOM1","ordinateur_sourceANDordinateur_destination":"C1720, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C529","ordinateur_sourceANDordinateur_destination":"C2660, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5292$@DOM1","ordinateur_sourceANDordinateur_destination":"C5292, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1239$@DOM1","ordinateur_sourceANDordinateur_destination":"C1239, C467","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C565, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C2918, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C106$@DOM1","ordinateur_sourceANDordinateur_destination":"C106, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C814$@DOM1","ordinateur_sourceANDordinateur_destination":"C814, C529","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C625","ordinateur_sourceANDordinateur_destination":"C1141, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C254$@DOM1","ordinateur_sourceANDordinateur_destination":"C254, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C781, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1294$@DOM1","ordinateur_sourceANDordinateur_destination":"C1294, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C829$@DOM1","ordinateur_sourceANDordinateur_destination":"C829, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C48, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C3660$@DOM1","ordinateur_sourceANDordinateur_destination":"C3660, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C4491$@DOM1","ordinateur_sourceANDordinateur_destination":"C4491, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2579$@DOM1","ordinateur_sourceANDordinateur_destination":"C2579, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1039$@DOM1","ordinateur_sourceANDordinateur_destination":"C1039, C612","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C625","ordinateur_sourceANDordinateur_destination":"C310, C625","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C2734, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5566$@DOM1","ordinateur_sourceANDordinateur_destination":"C5566, C529","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C729, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C457","ordinateur_sourceANDordinateur_destination":"C611, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C797$@DOM1","ordinateur_sourceANDordinateur_destination":"C797, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C4849$@DOM1","ordinateur_sourceANDordinateur_destination":"C4849, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C2700$@DOM1","ordinateur_sourceANDordinateur_destination":"C27192, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C208$@DOM1","ordinateur_sourceANDordinateur_destination":"C208, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C150, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1300$@DOM1","ordinateur_sourceANDordinateur_destination":"C1300, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C2314$@DOM1","ordinateur_sourceANDordinateur_destination":"C2314, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C265$@DOM1","ordinateur_sourceANDordinateur_destination":"C265, C457","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C1065","ordinateur_sourceANDordinateur_destination":"C10, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C2131$@DOM1","ordinateur_sourceANDordinateur_destination":"C2131, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C779$@DOM1","ordinateur_sourceANDordinateur_destination":"C779, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C4914, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1048$@DOM1","ordinateur_sourceANDordinateur_destination":"C1048, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C4730$@DOM1","ordinateur_sourceANDordinateur_destination":"C4730, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C3211$@DOM1","ordinateur_sourceANDordinateur_destination":"C3211, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C1103$@DOM1","ordinateur_sourceANDordinateur_destination":"C1103, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1882, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C314$@DOM1","ordinateur_sourceANDordinateur_destination":"C314, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C612","ordinateur_sourceANDordinateur_destination":"C5478, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C3824$@DOM1","ordinateur_sourceANDordinateur_destination":"C3824, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C2662$@DOM1","ordinateur_sourceANDordinateur_destination":"C2662, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C5222$@DOM1","ordinateur_sourceANDordinateur_destination":"C5222, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C436$@DOM1","ordinateur_sourceANDordinateur_destination":"C436, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1232$@DOM1","ordinateur_sourceANDordinateur_destination":"C1232, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C4709$@DOM1","ordinateur_sourceANDordinateur_destination":"C4709, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1078$@DOM1","ordinateur_sourceANDordinateur_destination":"C1078, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C128$@DOM1","ordinateur_sourceANDordinateur_destination":"C128, C625","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C767, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C3546, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C528$@DOM1","ordinateur_sourceANDordinateur_destination":"C528, C467","poids":10}
+{"utilisateur_sourceAdomaine":"U831@DOM1","ordinateur_sourceANDordinateur_destination":"C3960, C528","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C520, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C457","ordinateur_sourceANDordinateur_destination":"C5400, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C5513$@DOM1","ordinateur_sourceANDordinateur_destination":"C5513, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C296$@DOM1","ordinateur_sourceANDordinateur_destination":"C296, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C799$@DOM1","ordinateur_sourceANDordinateur_destination":"C799, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C747$@DOM1","ordinateur_sourceANDordinateur_destination":"C747, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1322$@DOM1","ordinateur_sourceANDordinateur_destination":"C1322, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5026$@DOM1","ordinateur_sourceANDordinateur_destination":"C5026, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1288$@DOM1","ordinateur_sourceANDordinateur_destination":"C1288, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C3953$@DOM1","ordinateur_sourceANDordinateur_destination":"C3953, C3953","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C529","ordinateur_sourceANDordinateur_destination":"C5653, C529","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C612","ordinateur_sourceANDordinateur_destination":"C628, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C1386$@DOM1","ordinateur_sourceANDordinateur_destination":"C1386, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1058$@DOM1","ordinateur_sourceANDordinateur_destination":"C1058, C1058","poids":10}
+{"utilisateur_sourceAdomaine":"C238$@DOM1","ordinateur_sourceANDordinateur_destination":"C238, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2701$@DOM1","ordinateur_sourceANDordinateur_destination":"C2701, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C182$@DOM1","ordinateur_sourceANDordinateur_destination":"C182, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C590$@DOM1","ordinateur_sourceANDordinateur_destination":"C590, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C286$@DOM1","ordinateur_sourceANDordinateur_destination":"C286, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C5609$@DOM1","ordinateur_sourceANDordinateur_destination":"C5609, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C165$@DOM1","ordinateur_sourceANDordinateur_destination":"C165, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5078$@DOM1","ordinateur_sourceANDordinateur_destination":"C5078, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1230$@DOM1","ordinateur_sourceANDordinateur_destination":"C1230, C528","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C467","ordinateur_sourceANDordinateur_destination":"C556, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C2549$@DOM1","ordinateur_sourceANDordinateur_destination":"C2549, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1148$@DOM1","ordinateur_sourceANDordinateur_destination":"C1148, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C53$@DOM1","ordinateur_sourceANDordinateur_destination":"C53, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C459$@DOM1","ordinateur_sourceANDordinateur_destination":"C459, C625","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C640, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1249$@DOM1","ordinateur_sourceANDordinateur_destination":"C1249, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1029$@DOM1","ordinateur_sourceANDordinateur_destination":"C1029, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C3891$@DOM1","ordinateur_sourceANDordinateur_destination":"C3891, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C3286$@DOM1","ordinateur_sourceANDordinateur_destination":"C3286, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C1466$@DOM1","ordinateur_sourceANDordinateur_destination":"C1466, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2758$@DOM1","ordinateur_sourceANDordinateur_destination":"C2758, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C1341$@DOM1","ordinateur_sourceANDordinateur_destination":"C1341, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C1244$@DOM1","ordinateur_sourceANDordinateur_destination":"C1244, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C1223$@DOM1","ordinateur_sourceANDordinateur_destination":"C1223, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C18$@DOM1","ordinateur_sourceANDordinateur_destination":"C18, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C1064$@DOM1","ordinateur_sourceANDordinateur_destination":"C1064, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1671$@DOM1","ordinateur_sourceANDordinateur_destination":"C1671, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C648, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C3098, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C208, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1269$@DOM1","ordinateur_sourceANDordinateur_destination":"C1269, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C738$@DOM1","ordinateur_sourceANDordinateur_destination":"C738, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C5002$@DOM1","ordinateur_sourceANDordinateur_destination":"C5002, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C712$@DOM1","ordinateur_sourceANDordinateur_destination":"C712, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1253$@DOM1","ordinateur_sourceANDordinateur_destination":"C1253, C625","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C2578, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5561$@DOM1","ordinateur_sourceANDordinateur_destination":"C5561, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C3050$@DOM1","ordinateur_sourceANDordinateur_destination":"C3050, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2712$@DOM1","ordinateur_sourceANDordinateur_destination":"C2712, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1171, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1217$@DOM1","ordinateur_sourceANDordinateur_destination":"C1217, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C4625$@DOM1","ordinateur_sourceANDordinateur_destination":"C4626, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C4921$@DOM1","ordinateur_sourceANDordinateur_destination":"C4921, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5905$@DOM1","ordinateur_sourceANDordinateur_destination":"C5905, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C4554$@DOM1","ordinateur_sourceANDordinateur_destination":"C4554, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1397$@DOM1","ordinateur_sourceANDordinateur_destination":"C1397, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1768$@DOM1","ordinateur_sourceANDordinateur_destination":"C1768, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1186$@DOM1","ordinateur_sourceANDordinateur_destination":"C1186, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1737$@DOM1","ordinateur_sourceANDordinateur_destination":"C1737, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C1835$@DOM1","ordinateur_sourceANDordinateur_destination":"C1835, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1490$@DOM1","ordinateur_sourceANDordinateur_destination":"C1490, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C2204$@DOM1","ordinateur_sourceANDordinateur_destination":"C2204, C529","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1182, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C4763$@DOM1","ordinateur_sourceANDordinateur_destination":"C4764, C586","poids":10}
+{"utilisateur_sourceAdomaine":"U1734@DOM1","ordinateur_sourceANDordinateur_destination":"C2650, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C1439$@DOM1","ordinateur_sourceANDordinateur_destination":"C1439, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2083$@DOM1","ordinateur_sourceANDordinateur_destination":"C2083, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C432$@DOM1","ordinateur_sourceANDordinateur_destination":"C432, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2809$@DOM1","ordinateur_sourceANDordinateur_destination":"C2809, C528","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C612","ordinateur_sourceANDordinateur_destination":"C4509, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C1231$@DOM1","ordinateur_sourceANDordinateur_destination":"C1231, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C467","ordinateur_sourceANDordinateur_destination":"C1945, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C4688$@DOM1","ordinateur_sourceANDordinateur_destination":"C4688, C2106","poids":10}
+{"utilisateur_sourceAdomaine":"C363$@DOM1","ordinateur_sourceANDordinateur_destination":"C363, C467","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1909, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2749$@DOM1","ordinateur_sourceANDordinateur_destination":"C2749, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C1065","ordinateur_sourceANDordinateur_destination":"C3012, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C3471$@DOM1","ordinateur_sourceANDordinateur_destination":"C3471, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C5163$@DOM1","ordinateur_sourceANDordinateur_destination":"C5163, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C5218$@DOM1","ordinateur_sourceANDordinateur_destination":"C5218, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C38$@DOM1","ordinateur_sourceANDordinateur_destination":"C38, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C1233$@DOM1","ordinateur_sourceANDordinateur_destination":"C1233, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C681$@DOM1","ordinateur_sourceANDordinateur_destination":"C681, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C4479$@DOM1","ordinateur_sourceANDordinateur_destination":"C4479, C2106","poids":10}
+{"utilisateur_sourceAdomaine":"C3230$@DOM1","ordinateur_sourceANDordinateur_destination":"C3230, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C723$@DOM1","ordinateur_sourceANDordinateur_destination":"C723, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C4775$@DOM1","ordinateur_sourceANDordinateur_destination":"C4775, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1274$@DOM1","ordinateur_sourceANDordinateur_destination":"C1274, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C5214$@DOM1","ordinateur_sourceANDordinateur_destination":"C5215, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C2226$@DOM1","ordinateur_sourceANDordinateur_destination":"C2226, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C1065","ordinateur_sourceANDordinateur_destination":"C801, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C723, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1492$@DOM1","ordinateur_sourceANDordinateur_destination":"C1492, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C4942$@DOM1","ordinateur_sourceANDordinateur_destination":"C4942, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C4901$@DOM1","ordinateur_sourceANDordinateur_destination":"C4902, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C3538$@DOM1","ordinateur_sourceANDordinateur_destination":"C3538, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1449$@DOM1","ordinateur_sourceANDordinateur_destination":"C1449, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1276$@DOM1","ordinateur_sourceANDordinateur_destination":"C1276, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2654$@DOM1","ordinateur_sourceANDordinateur_destination":"C2654, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C2908$@DOM1","ordinateur_sourceANDordinateur_destination":"C467, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C2915$@DOM1","ordinateur_sourceANDordinateur_destination":"C2915, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C49$@DOM1","ordinateur_sourceANDordinateur_destination":"C49, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C612","ordinateur_sourceANDordinateur_destination":"C3794, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C978$@DOM1","ordinateur_sourceANDordinateur_destination":"C978, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C177$@DOM1","ordinateur_sourceANDordinateur_destination":"C177, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C5373$@DOM1","ordinateur_sourceANDordinateur_destination":"C5374, C529","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C3384, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C560, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2633$@DOM1","ordinateur_sourceANDordinateur_destination":"C2633, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C948$@DOM1","ordinateur_sourceANDordinateur_destination":"C948, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1152$@DOM1","ordinateur_sourceANDordinateur_destination":"C1152, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C2606$@DOM1","ordinateur_sourceANDordinateur_destination":"C2606, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C2676$@DOM1","ordinateur_sourceANDordinateur_destination":"C2676, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1024$@DOM1","ordinateur_sourceANDordinateur_destination":"C1024, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C5609$@DOM1","ordinateur_sourceANDordinateur_destination":"C5609, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2504$@DOM1","ordinateur_sourceANDordinateur_destination":"C2504, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C5238$@DOM1","ordinateur_sourceANDordinateur_destination":"C5238, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1006, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1063$@DOM1","ordinateur_sourceANDordinateur_destination":"C1063, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C1009$@DOM1","ordinateur_sourceANDordinateur_destination":"C1009, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5255$@DOM1","ordinateur_sourceANDordinateur_destination":"C5255, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C1133$@DOM1","ordinateur_sourceANDordinateur_destination":"C1133, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C4877$@DOM1","ordinateur_sourceANDordinateur_destination":"C4877, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C467","ordinateur_sourceANDordinateur_destination":"C4924, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C796$@DOM1","ordinateur_sourceANDordinateur_destination":"C796, C467","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C671, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C432, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5455$@DOM1","ordinateur_sourceANDordinateur_destination":"C5455, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1423$@DOM1","ordinateur_sourceANDordinateur_destination":"C1423, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1072$@DOM1","ordinateur_sourceANDordinateur_destination":"C1072, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C793$@DOM1","ordinateur_sourceANDordinateur_destination":"C793, C793","poids":10}
+{"utilisateur_sourceAdomaine":"C1323$@DOM1","ordinateur_sourceANDordinateur_destination":"C1323, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C4097$@DOM1","ordinateur_sourceANDordinateur_destination":"C3896, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2484$@DOM1","ordinateur_sourceANDordinateur_destination":"C2484, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2577$@DOM1","ordinateur_sourceANDordinateur_destination":"C2577, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C933$@DOM1","ordinateur_sourceANDordinateur_destination":"C933, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C529","ordinateur_sourceANDordinateur_destination":"C706, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C4841$@DOM1","ordinateur_sourceANDordinateur_destination":"C4841, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C3143$@DOM1","ordinateur_sourceANDordinateur_destination":"C3143, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C1680$@DOM1","ordinateur_sourceANDordinateur_destination":"C1680, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C2576, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C606$@DOM1","ordinateur_sourceANDordinateur_destination":"C606, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C520$@DOM1","ordinateur_sourceANDordinateur_destination":"C520, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C5246$@DOM1","ordinateur_sourceANDordinateur_destination":"C5246, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C1164$@DOM1","ordinateur_sourceANDordinateur_destination":"C1164, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C3916$@DOM1","ordinateur_sourceANDordinateur_destination":"C3916, C467","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C290, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1219$@DOM1","ordinateur_sourceANDordinateur_destination":"C1219, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C3036, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C515$@DOM1","ordinateur_sourceANDordinateur_destination":"C515, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C5362$@DOM1","ordinateur_sourceANDordinateur_destination":"C5362, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C936$@DOM1","ordinateur_sourceANDordinateur_destination":"C936, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C612","ordinateur_sourceANDordinateur_destination":"C109, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C988$@DOM1","ordinateur_sourceANDordinateur_destination":"C988, C1737","poids":10}
+{"utilisateur_sourceAdomaine":"C2966$@DOM1","ordinateur_sourceANDordinateur_destination":"C2966, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5552$@DOM1","ordinateur_sourceANDordinateur_destination":"C5552, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2626$@DOM1","ordinateur_sourceANDordinateur_destination":"C2626, C743","poids":10}
+{"utilisateur_sourceAdomaine":"C2498$@DOM1","ordinateur_sourceANDordinateur_destination":"C2498, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1725$@DOM1","ordinateur_sourceANDordinateur_destination":"C1725, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C3772$@DOM1","ordinateur_sourceANDordinateur_destination":"C3772, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C339$@DOM1","ordinateur_sourceANDordinateur_destination":"C339, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C3128$@DOM1","ordinateur_sourceANDordinateur_destination":"C3128, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C3974$@DOM1","ordinateur_sourceANDordinateur_destination":"C3974, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C2202$@DOM1","ordinateur_sourceANDordinateur_destination":"C2202, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5557$@DOM1","ordinateur_sourceANDordinateur_destination":"C5557, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C1183$@DOM1","ordinateur_sourceANDordinateur_destination":"C1183, C625","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C528","ordinateur_sourceANDordinateur_destination":"C250, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C4426$@DOM1","ordinateur_sourceANDordinateur_destination":"C4426, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C3318$@DOM1","ordinateur_sourceANDordinateur_destination":"C3318, C625","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C226, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C140$@DOM1","ordinateur_sourceANDordinateur_destination":"C140, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C559$@DOM1","ordinateur_sourceANDordinateur_destination":"C559, C528","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1835, C586","poids":10}
+{"utilisateur_sourceAdomaine":"U301@DOM1","ordinateur_sourceANDordinateur_destination":"C1899, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C285$@DOM1","ordinateur_sourceANDordinateur_destination":"C285, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C804$@DOM1","ordinateur_sourceANDordinateur_destination":"C804, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C590$@DOM1","ordinateur_sourceANDordinateur_destination":"C590, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C3391$@DOM1","ordinateur_sourceANDordinateur_destination":"C3391, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C389$@DOM1","ordinateur_sourceANDordinateur_destination":"C389, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C1728$@DOM1","ordinateur_sourceANDordinateur_destination":"C1728, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5102$@DOM1","ordinateur_sourceANDordinateur_destination":"C5102, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C3600$@DOM1","ordinateur_sourceANDordinateur_destination":"C3600, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C569$@DOM1","ordinateur_sourceANDordinateur_destination":"C569, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C5084$@DOM1","ordinateur_sourceANDordinateur_destination":"C5084, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C2347$@DOM1","ordinateur_sourceANDordinateur_destination":"C2347, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1525$@DOM1","ordinateur_sourceANDordinateur_destination":"C1525, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2046$@DOM1","ordinateur_sourceANDordinateur_destination":"C2046, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C3432$@DOM1","ordinateur_sourceANDordinateur_destination":"C3432, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C2626$@DOM1","ordinateur_sourceANDordinateur_destination":"C2626, C585","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C1671, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C612","ordinateur_sourceANDordinateur_destination":"C2882, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C260$@DOM1","ordinateur_sourceANDordinateur_destination":"C260, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5225$@DOM1","ordinateur_sourceANDordinateur_destination":"C5225, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C642$@DOM1","ordinateur_sourceANDordinateur_destination":"C642, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C1345$@DOM1","ordinateur_sourceANDordinateur_destination":"C1345, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C900$@DOM1","ordinateur_sourceANDordinateur_destination":"C900, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C957$@DOM1","ordinateur_sourceANDordinateur_destination":"C957, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1161$@DOM1","ordinateur_sourceANDordinateur_destination":"C1161, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C872$@DOM1","ordinateur_sourceANDordinateur_destination":"C872, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C700$@DOM1","ordinateur_sourceANDordinateur_destination":"C700, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C18$@DOM1","ordinateur_sourceANDordinateur_destination":"C18, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C3210$@DOM1","ordinateur_sourceANDordinateur_destination":"C3210, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C396$@DOM1","ordinateur_sourceANDordinateur_destination":"C396, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C4911$@DOM1","ordinateur_sourceANDordinateur_destination":"C4911, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C2837$@DOM1","ordinateur_sourceANDordinateur_destination":"C2837, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1100$@DOM1","ordinateur_sourceANDordinateur_destination":"C1100, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C532$@DOM1","ordinateur_sourceANDordinateur_destination":"C532, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C1882$@DOM1","ordinateur_sourceANDordinateur_destination":"C1882, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5094$@DOM1","ordinateur_sourceANDordinateur_destination":"C5094, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1737$@DOM1","ordinateur_sourceANDordinateur_destination":"C1737, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2626$@DOM1","ordinateur_sourceANDordinateur_destination":"C2626, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C66$@DOM1","ordinateur_sourceANDordinateur_destination":"C66, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C2462$@DOM1","ordinateur_sourceANDordinateur_destination":"C2462, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C3859$@DOM1","ordinateur_sourceANDordinateur_destination":"C3859, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1503$@DOM1","ordinateur_sourceANDordinateur_destination":"C1503, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5446$@DOM1","ordinateur_sourceANDordinateur_destination":"C5446, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1492$@DOM1","ordinateur_sourceANDordinateur_destination":"C1492, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1840$@DOM1","ordinateur_sourceANDordinateur_destination":"C1840, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C3725$@DOM1","ordinateur_sourceANDordinateur_destination":"C3725, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C4714$@DOM1","ordinateur_sourceANDordinateur_destination":"C4714, C625","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C254, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C5461$@DOM1","ordinateur_sourceANDordinateur_destination":"C5461, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C4027$@DOM1","ordinateur_sourceANDordinateur_destination":"C4027, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C452$@DOM1","ordinateur_sourceANDordinateur_destination":"C452, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C2623$@DOM1","ordinateur_sourceANDordinateur_destination":"C2623, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C378$@DOM1","ordinateur_sourceANDordinateur_destination":"C378, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C3373$@DOM1","ordinateur_sourceANDordinateur_destination":"C3373, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2001$@DOM1","ordinateur_sourceANDordinateur_destination":"C2001, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C5016$@DOM1","ordinateur_sourceANDordinateur_destination":"C5016, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C522$@DOM1","ordinateur_sourceANDordinateur_destination":"C522, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C251$@DOM1","ordinateur_sourceANDordinateur_destination":"C251, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C2373$@DOM1","ordinateur_sourceANDordinateur_destination":"C3567, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C3507$@DOM1","ordinateur_sourceANDordinateur_destination":"C3507, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C1914$@DOM1","ordinateur_sourceANDordinateur_destination":"C1915, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C4601$@DOM1","ordinateur_sourceANDordinateur_destination":"C4601, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C197$@DOM1","ordinateur_sourceANDordinateur_destination":"C197, C625","poids":10}
+{"utilisateur_sourceAdomaine":"C950$@DOM1","ordinateur_sourceANDordinateur_destination":"C950, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C763$@DOM1","ordinateur_sourceANDordinateur_destination":"C763, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C2519$@DOM1","ordinateur_sourceANDordinateur_destination":"C2519, C457","poids":10}
+{"utilisateur_sourceAdomaine":"C547$@DOM1","ordinateur_sourceANDordinateur_destination":"C547, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C235$@DOM1","ordinateur_sourceANDordinateur_destination":"C235, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C4690$@DOM1","ordinateur_sourceANDordinateur_destination":"C20455, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C777$@DOM1","ordinateur_sourceANDordinateur_destination":"C777, C529","poids":10}
+{"utilisateur_sourceAdomaine":"C3528$@DOM1","ordinateur_sourceANDordinateur_destination":"C3528, C467","poids":10}
+{"utilisateur_sourceAdomaine":"C366$@DOM1","ordinateur_sourceANDordinateur_destination":"C366, C586","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDordinateur_destination":"C829, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1135$@DOM1","ordinateur_sourceANDordinateur_destination":"C1135, C457","poids":10}
+{"utilisateur_sourceAdomaine":"U520@DOM1","ordinateur_sourceANDordinateur_destination":"C1357, C528","poids":10}
+{"utilisateur_sourceAdomaine":"C1250$@DOM1","ordinateur_sourceANDordinateur_destination":"C1250, C586","poids":10}
+{"utilisateur_sourceAdomaine":"C1879$@DOM1","ordinateur_sourceANDordinateur_destination":"C1879, C529","poids":10}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C612","ordinateur_sourceANDordinateur_destination":"C3832, C612","poids":10}
+{"utilisateur_sourceAdomaine":"C4165$@DOM1","ordinateur_sourceANDordinateur_destination":"C4165, C1065","poids":10}
+{"utilisateur_sourceAdomaine":"C908$@DOM1","ordinateur_sourceANDordinateur_destination":"C908, C457","poids":10}

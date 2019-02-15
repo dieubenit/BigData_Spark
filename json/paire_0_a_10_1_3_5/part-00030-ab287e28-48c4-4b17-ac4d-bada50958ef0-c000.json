@@ -1,0 +1,289 @@
+{"utilisateur_sourceAdomaine":"U128@DOM1","ordinateur_sourceANDtype_authentification":"C1355, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1840, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C4647, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C4781, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C324$@DOM1","ordinateur_sourceANDtype_authentification":"C324, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3361$@DOM1","ordinateur_sourceANDtype_authentification":"C3361, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1298$@DOM1","ordinateur_sourceANDtype_authentification":"C1298, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1859, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U457@DOM1","ordinateur_sourceANDtype_authentification":"C4187, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1044, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C883$@DOM1","ordinateur_sourceANDtype_authentification":"C883, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C612","ordinateur_sourceANDtype_authentification":"C1268, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C354, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1170, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U174@DOM1","ordinateur_sourceANDtype_authentification":"C2767, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C5321$@DOM1","ordinateur_sourceANDtype_authentification":"C5321, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1310$@DOM1","ordinateur_sourceANDtype_authentification":"C1310, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C367$@DOM1","ordinateur_sourceANDtype_authentification":"C367, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U578@DOM1","ordinateur_sourceANDtype_authentification":"C355, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C5071$@DOM1","ordinateur_sourceANDtype_authentification":"C5071, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1590, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U600@DOM1","ordinateur_sourceANDtype_authentification":"C531, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U78@DOM1","ordinateur_sourceANDtype_authentification":"C1848, Negotiate","poids":11}
+{"utilisateur_sourceAdomaine":"C2023$@DOM1","ordinateur_sourceANDtype_authentification":"C2023, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1265$@DOM1","ordinateur_sourceANDtype_authentification":"C1265, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1292@DOM1","ordinateur_sourceANDtype_authentification":"C1318, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U464@DOM1","ordinateur_sourceANDtype_authentification":"C2842, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1374@DOM1","ordinateur_sourceANDtype_authentification":"C588, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U725@DOM1","ordinateur_sourceANDtype_authentification":"C1316, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1249@DOM1","ordinateur_sourceANDtype_authentification":"C219, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U505@DOM1","ordinateur_sourceANDtype_authentification":"C4601, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C5145$@DOM1","ordinateur_sourceANDtype_authentification":"C5145, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4567$@DOM1","ordinateur_sourceANDtype_authentification":"C4567, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4801$@DOM1","ordinateur_sourceANDtype_authentification":"C4801, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1744, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C4410$@DOM1","ordinateur_sourceANDtype_authentification":"C4410, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C625","ordinateur_sourceANDtype_authentification":"C1599, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C3468$@DOM1","ordinateur_sourceANDtype_authentification":"C3468, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C968, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U736@DOM1","ordinateur_sourceANDtype_authentification":"C1637, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3503$@DOM1","ordinateur_sourceANDtype_authentification":"C3503, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1839@DOM1","ordinateur_sourceANDtype_authentification":"C332, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C658, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U705@DOM1","ordinateur_sourceANDtype_authentification":"C1122, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U495@DOM1","ordinateur_sourceANDtype_authentification":"C150, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3090$@DOM1","ordinateur_sourceANDtype_authentification":"C3090, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1933, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C4889$@DOM1","ordinateur_sourceANDtype_authentification":"C4889, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C5382$@DOM1","ordinateur_sourceANDtype_authentification":"C5382, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U193@DOM1","ordinateur_sourceANDtype_authentification":"C833, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1785$@DOM1","ordinateur_sourceANDtype_authentification":"C1785, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1580$@DOM1","ordinateur_sourceANDtype_authentification":"C1580, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C660$@DOM1","ordinateur_sourceANDtype_authentification":"C660, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3117$@DOM1","ordinateur_sourceANDtype_authentification":"C3117, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C5315$@DOM1","ordinateur_sourceANDtype_authentification":"C5315, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1073@DOM1","ordinateur_sourceANDtype_authentification":"C510, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C127$@DOM1","ordinateur_sourceANDtype_authentification":"C127, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3995$@DOM1","ordinateur_sourceANDtype_authentification":"C3995, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C283$@DOM1","ordinateur_sourceANDtype_authentification":"C283, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U294@DOM1","ordinateur_sourceANDtype_authentification":"C2873, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1223@DOM1","ordinateur_sourceANDtype_authentification":"C1101, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U97@DOM1","ordinateur_sourceANDtype_authentification":"C1825, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U487@DOM1","ordinateur_sourceANDtype_authentification":"C1875, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C2656, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C467","ordinateur_sourceANDtype_authentification":"C284, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C457","ordinateur_sourceANDtype_authentification":"C395, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C5628$@DOM1","ordinateur_sourceANDtype_authentification":"C5628, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U233@DOM1","ordinateur_sourceANDtype_authentification":"C901, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2608$@DOM1","ordinateur_sourceANDtype_authentification":"C2608, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1334@DOM1","ordinateur_sourceANDtype_authentification":"C5594, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U207@DOM1","ordinateur_sourceANDtype_authentification":"C1898, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U151@DOM1","ordinateur_sourceANDtype_authentification":"C1732, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1289, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U575@DOM1","ordinateur_sourceANDtype_authentification":"C1515, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4950$@DOM1","ordinateur_sourceANDtype_authentification":"C4951, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C360, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U795@DOM1","ordinateur_sourceANDtype_authentification":"C1268, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4657$@DOM1","ordinateur_sourceANDtype_authentification":"C4657, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C722$@DOM1","ordinateur_sourceANDtype_authentification":"C722, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1188, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U632@DOM1","ordinateur_sourceANDtype_authentification":"C1671, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2784$@DOM1","ordinateur_sourceANDtype_authentification":"C2784, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C674$@DOM1","ordinateur_sourceANDtype_authentification":"C674, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C868, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C4345$@DOM1","ordinateur_sourceANDtype_authentification":"C4345, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1276, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1478, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C1150$@DOM1","ordinateur_sourceANDtype_authentification":"C1150, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U404@DOM1","ordinateur_sourceANDtype_authentification":"C191, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1099@DOM1","ordinateur_sourceANDtype_authentification":"C3460, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U356@DOM1","ordinateur_sourceANDtype_authentification":"C555, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C528","ordinateur_sourceANDtype_authentification":"C4358, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U797@DOM1","ordinateur_sourceANDtype_authentification":"C2704, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3750$@DOM1","ordinateur_sourceANDtype_authentification":"C3750, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U854@DOM1","ordinateur_sourceANDtype_authentification":"C1398, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1744@DOM1","ordinateur_sourceANDtype_authentification":"C584, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U167@DOM1","ordinateur_sourceANDtype_authentification":"C2303, Negotiate","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C1065","ordinateur_sourceANDtype_authentification":"C324, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1413, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C1191$@DOM1","ordinateur_sourceANDtype_authentification":"C1191, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U923@DOM1","ordinateur_sourceANDtype_authentification":"C1499, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C487$@DOM1","ordinateur_sourceANDtype_authentification":"C487, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1459@DOM1","ordinateur_sourceANDtype_authentification":"C3059, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U566@DOM1","ordinateur_sourceANDtype_authentification":"C667, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C454, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C1065","ordinateur_sourceANDtype_authentification":"C1003, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U1448@DOM1","ordinateur_sourceANDtype_authentification":"C380, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1760@DOM1","ordinateur_sourceANDtype_authentification":"C1385, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U147@DOM1","ordinateur_sourceANDtype_authentification":"C1065, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1273$@DOM1","ordinateur_sourceANDtype_authentification":"C1273, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U85@DOM1","ordinateur_sourceANDtype_authentification":"C24055, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C991$@DOM1","ordinateur_sourceANDtype_authentification":"C991, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1353$@DOM1","ordinateur_sourceANDtype_authentification":"C1353, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4685$@DOM1","ordinateur_sourceANDtype_authentification":"C4686, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U711@DOM1","ordinateur_sourceANDtype_authentification":"C352, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U197@DOM1","ordinateur_sourceANDtype_authentification":"C1834, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1184, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U194@DOM1","ordinateur_sourceANDtype_authentification":"C4157, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C906$@DOM1","ordinateur_sourceANDtype_authentification":"C906, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1042@DOM1","ordinateur_sourceANDtype_authentification":"C1829, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3288$@DOM1","ordinateur_sourceANDtype_authentification":"C3288, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1271$@DOM1","ordinateur_sourceANDtype_authentification":"C1271, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1151@DOM1","ordinateur_sourceANDtype_authentification":"C1315, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C967, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C5390$@DOM1","ordinateur_sourceANDtype_authentification":"C5390, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3580$@DOM1","ordinateur_sourceANDtype_authentification":"C3580, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C625","ordinateur_sourceANDtype_authentification":"C2082, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C2149, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U509@DOM1","ordinateur_sourceANDtype_authentification":"C1454, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U793@DOM1","ordinateur_sourceANDtype_authentification":"C3148, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C2095, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C934, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C613, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C462$@DOM1","ordinateur_sourceANDtype_authentification":"C462, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C5547$@DOM1","ordinateur_sourceANDtype_authentification":"C5547, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U139@DOM1","ordinateur_sourceANDtype_authentification":"C91, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U447@DOM1","ordinateur_sourceANDtype_authentification":"C375, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1279$@DOM1","ordinateur_sourceANDtype_authentification":"C1279, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1681@DOM1","ordinateur_sourceANDtype_authentification":"C1402, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4681$@DOM1","ordinateur_sourceANDtype_authentification":"C4682, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U863@DOM1","ordinateur_sourceANDtype_authentification":"C2035, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2829$@DOM1","ordinateur_sourceANDtype_authentification":"C2829, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U256@DOM1","ordinateur_sourceANDtype_authentification":"C1818, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C5398$@DOM1","ordinateur_sourceANDtype_authentification":"C5398, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U556@DOM1","ordinateur_sourceANDtype_authentification":"C2997, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U6@DOM1","ordinateur_sourceANDtype_authentification":"C449, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2503$@DOM1","ordinateur_sourceANDtype_authentification":"C2503, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U783@DOM1","ordinateur_sourceANDtype_authentification":"C5, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2600$@DOM1","ordinateur_sourceANDtype_authentification":"C2600, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C790, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U29@DOM1","ordinateur_sourceANDtype_authentification":"C2211, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1993$@DOM1","ordinateur_sourceANDtype_authentification":"C1993, Negotiate","poids":11}
+{"utilisateur_sourceAdomaine":"C1822$@DOM1","ordinateur_sourceANDtype_authentification":"C1822, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3000$@DOM1","ordinateur_sourceANDtype_authentification":"C3000, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1898, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C2301$@DOM1","ordinateur_sourceANDtype_authentification":"C2301, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3410$@DOM1","ordinateur_sourceANDtype_authentification":"C3410, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2913$@DOM1","ordinateur_sourceANDtype_authentification":"C2913, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C467$@DOM1","ordinateur_sourceANDtype_authentification":"C2618, MICROSOFT_AUTHENTICATION_PACKAG","poids":11}
+{"utilisateur_sourceAdomaine":"C5022$@DOM1","ordinateur_sourceANDtype_authentification":"C5022, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U222@DOM1","ordinateur_sourceANDtype_authentification":"C1403, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C56, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U1272@DOM1","ordinateur_sourceANDtype_authentification":"C4941, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C5137$@DOM1","ordinateur_sourceANDtype_authentification":"C5137, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C505, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C4676$@DOM1","ordinateur_sourceANDtype_authentification":"C4676, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C878$@DOM1","ordinateur_sourceANDtype_authentification":"C878, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U791@DOM1","ordinateur_sourceANDtype_authentification":"C4960, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C14$@DOM1","ordinateur_sourceANDtype_authentification":"C14, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U580@DOM1","ordinateur_sourceANDtype_authentification":"C1411, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C426$@DOM1","ordinateur_sourceANDtype_authentification":"C1065, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1060@DOM1","ordinateur_sourceANDtype_authentification":"C367, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C988$@DOM1","ordinateur_sourceANDtype_authentification":"C988, Negotiate","poids":11}
+{"utilisateur_sourceAdomaine":"C4009$@DOM1","ordinateur_sourceANDtype_authentification":"C4009, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C601$@DOM1","ordinateur_sourceANDtype_authentification":"C601, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4741$@DOM1","ordinateur_sourceANDtype_authentification":"C4741, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2189$@DOM1","ordinateur_sourceANDtype_authentification":"C2189, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1130@DOM1","ordinateur_sourceANDtype_authentification":"C1206, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C810, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U1415@DOM1","ordinateur_sourceANDtype_authentification":"C2798, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4321$@DOM1","ordinateur_sourceANDtype_authentification":"C4321, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C657$@DOM1","ordinateur_sourceANDtype_authentification":"C657, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3019$@DOM1","ordinateur_sourceANDtype_authentification":"C3019, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1049@DOM1","ordinateur_sourceANDtype_authentification":"C576, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1193$@DOM1","ordinateur_sourceANDtype_authentification":"C1193, Negotiate","poids":11}
+{"utilisateur_sourceAdomaine":"C2580$@DOM1","ordinateur_sourceANDtype_authentification":"C2580, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C143, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C494$@DOM1","ordinateur_sourceANDtype_authentification":"C494, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U780@DOM1","ordinateur_sourceANDtype_authentification":"C2204, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1071$@DOM1","ordinateur_sourceANDtype_authentification":"C1071, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U519@DOM1","ordinateur_sourceANDtype_authentification":"C1033, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U292@DOM1","ordinateur_sourceANDtype_authentification":"C523, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U336@DOM1","ordinateur_sourceANDtype_authentification":"C796, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C482$@DOM1","ordinateur_sourceANDtype_authentification":"C482, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C457","ordinateur_sourceANDtype_authentification":"C5571, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U1662@DOM1","ordinateur_sourceANDtype_authentification":"C5796, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U207@DOM1","ordinateur_sourceANDtype_authentification":"C1149, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C493, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C4434$@DOM1","ordinateur_sourceANDtype_authentification":"C4434, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C3495, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C2657, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U523@DOM1","ordinateur_sourceANDtype_authentification":"C1799, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1129@DOM1","ordinateur_sourceANDtype_authentification":"C1228, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U813@DOM1","ordinateur_sourceANDtype_authentification":"C751, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1158@DOM1","ordinateur_sourceANDtype_authentification":"C674, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3290$@DOM1","ordinateur_sourceANDtype_authentification":"C3290, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1406@DOM1","ordinateur_sourceANDtype_authentification":"C641, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1117@DOM1","ordinateur_sourceANDtype_authentification":"C1307, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1519$@DOM1","ordinateur_sourceANDtype_authentification":"C1519, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U190@DOM1","ordinateur_sourceANDtype_authentification":"C2660, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U469@DOM1","ordinateur_sourceANDtype_authentification":"C3145, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1147@DOM1","ordinateur_sourceANDtype_authentification":"C1184, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C957, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U1203@DOM1","ordinateur_sourceANDtype_authentification":"C704, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C176$@DOM1","ordinateur_sourceANDtype_authentification":"C176, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1139$@DOM1","ordinateur_sourceANDtype_authentification":"C1139, Negotiate","poids":11}
+{"utilisateur_sourceAdomaine":"C3674$@DOM1","ordinateur_sourceANDtype_authentification":"C3674, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U613@DOM1","ordinateur_sourceANDtype_authentification":"C677, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U911@DOM1","ordinateur_sourceANDtype_authentification":"C866, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1971$@DOM1","ordinateur_sourceANDtype_authentification":"C1697, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1298@DOM1","ordinateur_sourceANDtype_authentification":"C3459, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C880, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C1790$@DOM1","ordinateur_sourceANDtype_authentification":"C1790, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1529, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U707@DOM1","ordinateur_sourceANDtype_authentification":"C354, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1721, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C4159$@DOM1","ordinateur_sourceANDtype_authentification":"C4159, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4552$@DOM1","ordinateur_sourceANDtype_authentification":"C4552, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3645$@DOM1","ordinateur_sourceANDtype_authentification":"C3645, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U941@DOM1","ordinateur_sourceANDtype_authentification":"C1325, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1577, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U836@DOM1","ordinateur_sourceANDtype_authentification":"C1238, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2051$@DOM1","ordinateur_sourceANDtype_authentification":"C2051, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3194$@DOM1","ordinateur_sourceANDtype_authentification":"C3194, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C463$@DOM1","ordinateur_sourceANDtype_authentification":"C463, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C3639$@DOM1","ordinateur_sourceANDtype_authentification":"C3639, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U560@DOM1","ordinateur_sourceANDtype_authentification":"C721, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C663$@DOM1","ordinateur_sourceANDtype_authentification":"C663, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U407@DOM1","ordinateur_sourceANDtype_authentification":"C1180, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C668, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C499, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1119, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U676@DOM1","ordinateur_sourceANDtype_authentification":"C1797, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U685@DOM1","ordinateur_sourceANDtype_authentification":"C1387, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1184@DOM1","ordinateur_sourceANDtype_authentification":"C769, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C816$@DOM1","ordinateur_sourceANDtype_authentification":"C816, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1771@DOM1","ordinateur_sourceANDtype_authentification":"C22, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C3139, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1418, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C2774, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C3567, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U96@DOM1","ordinateur_sourceANDtype_authentification":"C1559, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C990$@DOM1","ordinateur_sourceANDtype_authentification":"C990, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1176@DOM1","ordinateur_sourceANDtype_authentification":"C659, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U6@DOM1","ordinateur_sourceANDtype_authentification":"C423, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1131$@DOM1","ordinateur_sourceANDtype_authentification":"C1131, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U868@DOM1","ordinateur_sourceANDtype_authentification":"C740, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4156$@DOM1","ordinateur_sourceANDtype_authentification":"C4157, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4925$@DOM1","ordinateur_sourceANDtype_authentification":"C4925, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U1133@DOM1","ordinateur_sourceANDtype_authentification":"C2604, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4005$@DOM1","ordinateur_sourceANDtype_authentification":"C4005, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U980@DOM1","ordinateur_sourceANDtype_authentification":"C614, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C412$@DOM1","ordinateur_sourceANDtype_authentification":"C412, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2057$@DOM1","ordinateur_sourceANDtype_authentification":"C2057, Negotiate","poids":11}
+{"utilisateur_sourceAdomaine":"C4417$@DOM1","ordinateur_sourceANDtype_authentification":"C4417, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C269$@DOM1","ordinateur_sourceANDtype_authentification":"C269, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C4614$@DOM1","ordinateur_sourceANDtype_authentification":"C4614, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U235@DOM1","ordinateur_sourceANDtype_authentification":"C1619, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1303, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C916$@DOM1","ordinateur_sourceANDtype_authentification":"C916, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C204, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C3059, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"C125$@DOM1","ordinateur_sourceANDtype_authentification":"C125, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U936@DOM1","ordinateur_sourceANDtype_authentification":"C3546, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C529","ordinateur_sourceANDtype_authentification":"C631, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U422@DOM1","ordinateur_sourceANDtype_authentification":"C4722, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C457","ordinateur_sourceANDtype_authentification":"C1826, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U1190@DOM1","ordinateur_sourceANDtype_authentification":"C1002, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C2865$@DOM1","ordinateur_sourceANDtype_authentification":"C2865, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U235@DOM1","ordinateur_sourceANDtype_authentification":"C527, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U285@DOM1","ordinateur_sourceANDtype_authentification":"C3492, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U411@DOM1","ordinateur_sourceANDtype_authentification":"C1021, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U646@DOM1","ordinateur_sourceANDtype_authentification":"C1090, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C586","ordinateur_sourceANDtype_authentification":"C1900, NTLM","poids":11}
+{"utilisateur_sourceAdomaine":"U1313@DOM1","ordinateur_sourceANDtype_authentification":"C2556, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U667@DOM1","ordinateur_sourceANDtype_authentification":"C1836, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C1734$@DOM1","ordinateur_sourceANDtype_authentification":"C1734, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"C244$@DOM1","ordinateur_sourceANDtype_authentification":"C244, Kerberos","poids":11}
+{"utilisateur_sourceAdomaine":"U194@DOM1","ordinateur_sourceANDtype_authentification":"C2593, Kerberos","poids":11}

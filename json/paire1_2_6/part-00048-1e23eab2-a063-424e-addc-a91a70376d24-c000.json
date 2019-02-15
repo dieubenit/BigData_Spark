@@ -1,0 +1,879 @@
+{"utilisateur_sourceAdomaine":"C414$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C414, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3784$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3784, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C756$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C756, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C895$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C895, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C890$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C890, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C210$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C210, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U25@DOM3","utilisateur_destinationAdomaineANDtype_de_connexion":"U30@DOM3, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C3312$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3312, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C863$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C863, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C167$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C167, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U63@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U64@C1666, NetworkCleartext","poids":2}
+{"utilisateur_sourceAdomaine":"U723@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U723@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3916","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3916, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1650$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1650, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4537","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4537, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1754$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1754, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2656$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2656, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3036$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3036, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C232$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C232, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C5141","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C5141, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3637","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3637, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4314","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4314, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5778$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5778, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U362@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U362@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C907$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C907, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1514$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1514, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2535$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2535, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2784","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2784, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1405$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1405, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3893$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3893, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C809$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C809, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2835$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2835, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U884@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U884@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C2850$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2850, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C484$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C484, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5613$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5613, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C866$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C866, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4879","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4879, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U724@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U724@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C872$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C872, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C748$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C748, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5799$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5799, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C614$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C614, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2922","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2922, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5113","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5113, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5600$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C5600$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C641$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C641, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1572$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1572, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C620$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C620, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1502$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1502, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1536$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1536, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U516@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U516@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5290","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5290, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2929","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2929, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1458$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1458, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2292$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2292, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C876$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C876, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1417$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1417, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C378$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C378, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3329","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3329, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5439$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U428@DOM1, Interactive","poids":2}
+{"utilisateur_sourceAdomaine":"C1304$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1304, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2556$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2556, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1463$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1463, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3532$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3532, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1156@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1156@DOM1, Batch","poids":2}
+{"utilisateur_sourceAdomaine":"C1934$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1934, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C637$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C637, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1002$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1002, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C734$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C734, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3857","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3857, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5408$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5408, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1399$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1399, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C204$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C204, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2047$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2047, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1254$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1254, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1808","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1808, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1506$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1506, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C819$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C819, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2934$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2934, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5646$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C5646$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1121$@DOM3","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1121, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5693$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1834@DOM1, Unlock","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4138","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4138, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C555$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C555, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1246$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1246, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2654$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2654, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2451","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2451, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4377","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4377, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3457","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3457, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C286$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C286, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5392","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5392, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5097","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5097, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2533","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2533, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C479$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C479, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4735","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4735, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4394","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4394, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4365","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4365, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C811$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C811, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C985$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C985, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1023$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1023, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2914$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2914, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4871","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4871, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4367","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4367, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1109$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1109, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1550$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1550, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C67$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C67, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1271$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1271, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1686$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1686, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C63$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C63, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C746$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C746, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C421","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C421, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3705","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3705, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1241$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1241, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4909","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4909, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1223$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1223, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C442$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C442, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1859$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1859, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1443$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1443, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C147$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C147, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C463$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C463, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1166$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1166, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C647$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C647, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2551","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2551, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2922","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2922, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3814","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3814, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3600$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3600, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C700$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C700, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2479","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2479, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4645","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4645, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1063$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1063, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1602$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1602, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U20@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U21@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4057","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4057, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3778","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3778, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4468","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4468, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4479","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4479, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C244$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C244, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C4, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C515$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C515, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C171$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C171, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5771","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5771, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2752","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2752, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4769","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4769, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C135$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U470@DOM1, Unlock","poids":2}
+{"utilisateur_sourceAdomaine":"C1543$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1543, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3854$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3854, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C737$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C737, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C5426","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C5426, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3860","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3860, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1935$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1935, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4571","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4571, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1824$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1824, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3436$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3436, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C551$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C551, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2816$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2816, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U830@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U830@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C2438$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2438, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2969$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2969, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4264","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4264, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C165$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C165, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C873$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C873, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4859","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4859, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4800$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C4800, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3344","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3344, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C5352","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C5352, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1387$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1387, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5279","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5279, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5161","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5161, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C670$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C670, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U531@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U531@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2752","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2752, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1091$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1091, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3059$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3059, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C79$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C79, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1299$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1299, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C857$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C857, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C161$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1747@DOM1, RemoteInteractive","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4337","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4337, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3317","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3317, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1132$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1132, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C550$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C550, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C729$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C729, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C910$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C910, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4576","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4576, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1065$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U114@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2929","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2929, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C771$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C771, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U961@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U961@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C880$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C880, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2098","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2098, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4563","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4563, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2155","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2155, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3215","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3215, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C256$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C256, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4953$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C4953, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5090","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5090, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2802$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2802, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1580$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1580, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C817$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C817, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C714$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C714, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1644$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U547@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3814","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3814, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3001","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3001, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5244","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5244, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C99$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C99, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1410$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1410, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3904","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3904, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3161","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3161, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C265$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C265, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1459$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1459, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1014$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1014, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U810@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U810@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C385$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C385, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C26$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C26, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1050$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1050, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C509$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C509, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C870$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C870, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U187@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U187@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"U617@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U617@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C457$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U114@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1189$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1189, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2700$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2700, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1381$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1381, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C498$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C498, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C763$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C763, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C632$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1063@DOM1, Unlock","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4239","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4239, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1148$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1148, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C303$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C303, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2393","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2393, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C90$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C90, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C309$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C309, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1603$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U227@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C521$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U428@DOM1, Batch","poids":2}
+{"utilisateur_sourceAdomaine":"C2012$@DOM3","utilisateur_destinationAdomaineANDtype_de_connexion":"C3380$@DOM3, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1474$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1474, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C950$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C950, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U919@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U919@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4720","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4720, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4867","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4867, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1125$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1125, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2115$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U45@C2115, Batch","poids":2}
+{"utilisateur_sourceAdomaine":"C797$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C797, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1196$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1196, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C361$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C361, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C785$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C785, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C993$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C993, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C996$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C996, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C23$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C23, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5388","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5388, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3365","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3365, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4576","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4576, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2341$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2341, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5498","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5498, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2048$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2048, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C388$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C388, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C959$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C959, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4468","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4468, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2232$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2232, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2819$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2819, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3321$@DOM3","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3321, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3558","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3558, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C772$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C772, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C28$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C28, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3483$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3483, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4237","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4237, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C725$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C725, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C588$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C588, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C829$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C829, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U577@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U577@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C625$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U114@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2018","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2018, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1151$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1151, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1295$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1295, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1113$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1113, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C707$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C707, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1817$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1817, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1984$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U694@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1750$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U227@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C2023$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2023, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1714$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1714, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3454","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3454, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U475@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U475@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C403$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C403, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1158$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1158, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1426$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1426, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2993","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2993, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5495$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C5495$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4123","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4123, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C653$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C653, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1047$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1047, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1840$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1840, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C491$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C491, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1155$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1155, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3145","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3145, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C5517","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C5517, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C897$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C897, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2328","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2328, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C618$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C618, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3976$@DOM7","utilisateur_destinationAdomaineANDtype_de_connexion":"C3976$@DOM7, Network","poids":2}
+{"utilisateur_sourceAdomaine":"U838@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U838@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4603","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4603, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1154$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1154, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C973$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C973, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1513$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1513, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U358@C1914","utilisateur_destinationAdomaineANDtype_de_connexion":"U358@C1914, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C3522$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3522, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1314$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1314, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1464$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1464, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4891","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4891, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4891","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4891, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3919","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3919, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4223","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4223, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2982$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U24@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1081$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1081, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1169$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1169, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1575$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1575, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3611$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3611, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1043$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1043, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2784","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2784, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5109","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5109, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2616$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2616, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2542","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2542, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2040","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2040, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C520$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C520, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3097$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3097, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C64$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C64, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1553$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1553, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3902","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3902, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2565","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2565, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5233","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5233, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U959@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U959@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3929","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3929, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C394$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C394, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C111$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C111, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C802$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C802, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2019$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C2019$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C526$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C526, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1175$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1175, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1250$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1250, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1500$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1500, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4106$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U428@DOM1, Interactive","poids":2}
+{"utilisateur_sourceAdomaine":"C1396$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1396, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C235$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C235, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C688$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C688, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1485$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1485, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1495$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1495, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C548$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C548, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2759$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2759, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C113$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1842@DOM1, Unlock","poids":2}
+{"utilisateur_sourceAdomaine":"U138@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U138@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C5884","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C5884, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1145$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1145, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C240$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C240, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4984$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C4984, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4249","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4249, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3486","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3486, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4085","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4085, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C252$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C252, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C5279","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C5279, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1048$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1048, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1283$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1283, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C319$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C319, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C347$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C347, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C938$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C938, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C444$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C444, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C800$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C800, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1316$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1316, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C15$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C15, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3726","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3726, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C769$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C769, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C816$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C816, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U68@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U69@C1679, NetworkCleartext","poids":2}
+{"utilisateur_sourceAdomaine":"C1207$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1207, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5248","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5248, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1361@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1361@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C5414$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5414, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1096$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1096, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C168$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C168, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3037$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U699@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3407","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3407, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4381","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4381, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3110","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3110, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5626$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5626, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1219$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1219, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C1807","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C1807, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5439$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U428@DOM1, Batch","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2923","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2923, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C537$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C537, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3869","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3869, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1449$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1449, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1321$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1321, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C133$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C133, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5141","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5141, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1710$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U699@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"U131@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U131@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2472","utilisateur_destinationAdomaineANDtype_de_connexion":"U1315@C2472, NetworkCleartext","poids":2}
+{"utilisateur_sourceAdomaine":"C1187$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1187, Service","poids":2}
+{"utilisateur_sourceAdomaine":"ANONYMOUS LOGON@C3455","utilisateur_destinationAdomaineANDtype_de_connexion":"ANONYMOUS LOGON@C3455, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C740$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C740, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C194$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C194, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C424$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C424, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1413$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1413, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C216$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C216, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4210","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4210, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3032","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3032, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U749@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U749@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C581$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C581, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C908$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C908, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1473$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1473, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1928","utilisateur_destinationAdomaineANDtype_de_connexion":"U622@C1928, NetworkCleartext","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2542","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2542, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3377","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3377, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1287$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1287, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1582$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1582, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3554$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3554, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3389$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U174@DOM1, Interactive","poids":2}
+{"utilisateur_sourceAdomaine":"C2461$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2461, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1371$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1371, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1557$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1557, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1121$@DOM3","utilisateur_destinationAdomaineANDtype_de_connexion":"C1121$@DOM3, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C3039$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3039, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C343$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C343, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2144","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2144, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C528$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U114@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C16$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C16, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C318$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C318, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C741$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C741, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1468$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1468, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C358$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C358, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C591$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C591, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2870$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2870, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5115","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5115, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1429$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1429, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C211$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C211, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C656$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C656, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1589$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1589, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5472","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5472, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5542","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5542, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4988","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4988, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C536$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C536, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3058","utilisateur_destinationAdomaineANDtype_de_connexion":"U648@C3058, NetworkCleartext","poids":2}
+{"utilisateur_sourceAdomaine":"U752@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U752@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C182$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C182, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C443$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C443, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U834@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U834@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"U20@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U20@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1734$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1734, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1085$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1085, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3772","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3772, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1002@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1002@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1903","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1903, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C753$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C753, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C320$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C320, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C5542","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C5542, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1331@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1331@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1130$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1130, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1392$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1392, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C178$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C178, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2588$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U526@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C485$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C485, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U46@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U46@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1414$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1414, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4253$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C4253, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C798$@DOM3","utilisateur_destinationAdomaineANDtype_de_connexion":"C798$@DOM3, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4299","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4299, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1199$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1199, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C234$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C234, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C855$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C855, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C826$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C826, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1526$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1526, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3204","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3204, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C55$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C55, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3440","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3440, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3839$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3839, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3890$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3890, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1537$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1537, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1415$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1415, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U326@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U326@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3500","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3500, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2187$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C2187$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3381","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3381, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1748","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1748, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1420$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1420, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2427$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2427, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3022","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3022, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3247","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3247, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4505","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4505, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5426","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5426, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C5069","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C5069, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5381$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5381, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1353$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1353, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5167$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5167, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C825$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C825, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C796$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C796, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2301","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2301, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1590$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1590, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1523","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1523, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1756@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1756@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3381","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3381, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4027$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C4027, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U719@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U719@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2517","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2517, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1658$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C1658$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C282$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C282, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C858$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C858, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3340","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3340, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2622$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2622, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3503$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3503, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1129$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1129, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C494$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C494, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3279$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3279, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1255$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1255, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1441$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1441, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3959","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3959, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U925@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U925@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1804","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1804, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C170$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C170, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1366$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1366, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5619$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C5619$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C945$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C945, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3022","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3022, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C798$@DOM3","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C798, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1186$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1186, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4038","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4038, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3718$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3718, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1369$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1369, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3444","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3444, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U327@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U327@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1053$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1053, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3605","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3605, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2707$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U461@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"U389@C3042","utilisateur_destinationAdomaineANDtype_de_connexion":"U389@C3042, Network","poids":2}
+{"utilisateur_sourceAdomaine":"U501@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U501@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2859","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2859, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C142$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C142, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C369$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C369, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C757$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C757, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C139$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C139, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1034$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1034, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2627","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2627, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5574$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5574, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1525$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1525, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C376$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C376, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C690$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C690, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3193","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3193, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5752$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C5752$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C3427$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3427, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C814$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C814, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C994$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C994, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1380$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1380, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2696$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2696, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1090$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1090, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5308$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5308, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5515","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5515, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5427","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5427, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C502$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C502, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C66$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C66, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3666$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3666, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3141","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3141, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2040","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2040, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1039$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1039, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C130$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C130, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3799","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3799, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5250","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5250, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C580$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C580, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1325$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1325, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2588$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U540@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C570$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C570, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1370$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1370, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5117","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5117, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1789$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U794@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C184$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C184, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C199$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C199, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1404$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1404, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C667$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C667, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C159$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C159, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4603","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4603, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C5427","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C5427, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1274$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1274, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C141$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C141, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C154$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C154, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1398$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1398, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2117","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2117, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2266$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2266, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4206$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C4206$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1086$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1086, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3869","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3869, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5584$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5584, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C91$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C91, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C940$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C940, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1133$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1133, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C878$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C878, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C396$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C396, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5433","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5433, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C521$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U428@DOM1, Interactive","poids":2}
+{"utilisateur_sourceAdomaine":"C5443$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5443, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3122","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3122, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5676$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C5676$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C505$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C505, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C427$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C427, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C669$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C669, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C128$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C128, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C174$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C174, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C576$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C576, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C281$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C281, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1258$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1258, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3609$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3609, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5596$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C5596$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C3601$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3601, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1077$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1077, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C164$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C164, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C312$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C312, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C511$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C511, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U948@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U948@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C4106$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U428@DOM1, Batch","poids":2}
+{"utilisateur_sourceAdomaine":"U25@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U21@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1498$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1498, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C822$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C822, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C804$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C804, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4254","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4254, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C26$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1559@DOM1, Unlock","poids":2}
+{"utilisateur_sourceAdomaine":"C1395$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1395, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4377","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4377, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U582@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U582@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C110$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C110, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2701$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2701, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C629$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C629, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C652$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C652, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C986$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C986, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1512$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1512, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3462","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3462, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U439@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U439@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C820$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C820, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C29$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C29, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C650$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C650, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1227$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1227, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U397@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U397@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4769","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4769, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1326@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1326@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1645$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1645, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3662","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3662, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3407","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3407, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1585$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1585, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3511$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3511, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1767$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U86@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1102$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1102, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1375$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1375, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C242$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C242, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1054$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1054, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2804$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2804, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C810$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C810, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1000$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1000, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1105$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1105, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U366@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U366@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"U245@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U245@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1726$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1726, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C495$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C495, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C30$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C30, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C894$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C894, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3171","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3171, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U137@C3413","utilisateur_destinationAdomaineANDtype_de_connexion":"U137@C3413, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1224$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1224, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1146$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1146, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1061@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1061@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C5610$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C5610$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C124$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C124, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C942$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C942, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1519$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1519, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1528$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1528, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U123@C1984","utilisateur_destinationAdomaineANDtype_de_connexion":"U123@C1984, Interactive","poids":2}
+{"utilisateur_sourceAdomaine":"C1481$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1481, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1718@?","utilisateur_destinationAdomaineANDtype_de_connexion":"U1718@?, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3141","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3141, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5311$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5311, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4578","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4578, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C681$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C681, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1818$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1818, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U822@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U822@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C316$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C316, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3311$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3311, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C989$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C989, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C393$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C393, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1455$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1455, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2479","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2479, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5614$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5614, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C600$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C600, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2724$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2724, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3535$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3535, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5517","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5517, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1807","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1807, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4548","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4548, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1422$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1422, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C546$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C546, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C733$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C733, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C831$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C831, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C877$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C877, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C692$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C692, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1695","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1695, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1976$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1976, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1376$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1376, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2991$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2991, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1701$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1701, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3678","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3678, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1157@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1157@DOM1, Batch","poids":2}
+{"utilisateur_sourceAdomaine":"C206$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C206, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1488$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1488, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1584$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1584, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2517","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2517, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2916","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2916, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C332$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1839@DOM1, Unlock","poids":2}
+{"utilisateur_sourceAdomaine":"C453$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C453, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3682","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3682, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U825@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U825@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3161","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3161, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4325","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4325, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1026$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1026, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C301$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C301, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2529","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2529, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1593$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1593, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C454$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C454, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C721$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C721, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C188$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C188, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3765","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3765, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C335$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C335, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1336$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1336, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1100$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1100, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2029","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2029, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4303","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4303, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1505$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1505, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C236$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C236, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C904$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C904, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1539$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1539, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1243@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1243@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C1903","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C1903, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1064$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1064, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C497$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C497, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C837$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C837, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1334$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1334, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C17$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C17, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U935@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U935@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C4822$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C4822$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1070$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1070, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C302$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C302, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U205@C2625","utilisateur_destinationAdomaineANDtype_de_connexion":"U205@C2625, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3884","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3884, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C660$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C660, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C676$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C676, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U432@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U432@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4481","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4481, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1184$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1184, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1663$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1663, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3336","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3336, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U686@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U686@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4731","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4731, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C674$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C674, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C603$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C603$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3906","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3906, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4002","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4002, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4152","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4152, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5608$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5608, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4937$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C4937, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C363$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C363, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5757","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5757, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1866$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1866, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C542$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C542, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3035$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3035, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3440","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3440, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1243$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1243, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1332$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1332, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1520$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1520, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5919$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5919, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4519","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4519, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4831","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4831, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1522$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1522, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1110$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1110, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C1959","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C1959, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C958$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C958, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3417","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3417, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5353","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5353, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1362$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1362, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1235$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1235, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3101","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3101, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U800@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U800@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C3327$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3327, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C896$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C896, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U110@C1665","utilisateur_destinationAdomaineANDtype_de_connexion":"U110@C1665, Interactive","poids":2}
+{"utilisateur_sourceAdomaine":"C3358$@DOM6","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3358, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1156$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1156, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1587$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1587, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C911$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C911, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1524$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1524, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4200","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4200, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2916","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2916, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4165$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U746@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3334","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3334, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3444","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3444, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2307","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2307, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1016$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1016, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C213$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C213, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C407$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C407, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2301","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2301, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U751@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U751@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C1453$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1453, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C122$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C122, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2885","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2885, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C4636$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C4636, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U564@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U564@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4503","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4503, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1383$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1383, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C525$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C525, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C738$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C738, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C86$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C86, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C457$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1038@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5352","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5352, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1009$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1009, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2151$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2151, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C355$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C355, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U124@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U124@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3536","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3536, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4722","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4722, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1703$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U227@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2029","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2029, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3171","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3171, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4979","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4979, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3317","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3317, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C2923","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C2923, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U26@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U27@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C2506$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2506, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C830$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C830, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1878","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1878, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C3247","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C3247, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C53$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C53, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C5843$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C5843, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C181$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C181, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3399","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3399, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5069","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5069, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1126$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1126, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1440$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1440, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C196$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C196, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4163","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4163, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1430$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1430, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C2594$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2594, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C2271","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C2271, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1959","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1959, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3907$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3907, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U1595@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1595@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C191$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C191, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3096$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3096, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1486$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1486, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1579$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1579, Service","poids":2}
+{"utilisateur_sourceAdomaine":"U832@C2825","utilisateur_destinationAdomaineANDtype_de_connexion":"U832@C2825, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C5598$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"C5598$@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"C2657$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C2657, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C655$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C655, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C774$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C774, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1174$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1174, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C258$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C258, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3575$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3575, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C5059","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C5059, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C41$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1844@DOM1, Unlock","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4698","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4698, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1640$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U147@DOM1, Batch","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C1761","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C1761, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4453","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4453, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C419$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C419, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C425$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C425, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4434","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4434, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1425$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C1425, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C928$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C928, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C3546$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"SYSTEM@C3546, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3137","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3137, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C4093","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C4093, Service","poids":2}
+{"utilisateur_sourceAdomaine":"LOCAL SERVICE@C4541","utilisateur_destinationAdomaineANDtype_de_connexion":"LOCAL SERVICE@C4541, Service","poids":2}
+{"utilisateur_sourceAdomaine":"NETWORK SERVICE@C3703","utilisateur_destinationAdomaineANDtype_de_connexion":"NETWORK SERVICE@C3703, Service","poids":2}
+{"utilisateur_sourceAdomaine":"C1821$@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U738@DOM1, Network","poids":2}
+{"utilisateur_sourceAdomaine":"U1197@DOM1","utilisateur_destinationAdomaineANDtype_de_connexion":"U1197@DOM1, Network","poids":2}
