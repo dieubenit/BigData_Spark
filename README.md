@@ -241,7 +241,13 @@ La troisième partie consiste à généraliser la Partie II. Le but est de calcu
 
 Exemple de résultat d'éxecution dans le dossier json. <br>
 Format : paire_1_2_3<br>
+
+### 2.4 Partie IV
+Contrairement à la partie III, dans cette partie le temps est pris en considération. En effet, cette partie consiste à calculer la Partie III pour chaque fenêtre (période) temporelle fixée au préalable.<br>
+
+Exemple de résultat d'éxecution dans le dossier json.<br>
 ````
+Format : paire_0_a_10_1_2_3<br>
 part-00000-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
 part-00001-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
 part-00002-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
@@ -256,8 +262,3 @@ part-00010-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
 part-00011-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
 part-00012-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
 ````
-### 2.4 Partie IV
-Contrairement à la partie III, dans cette partie le temps est pris en considération. En effet, cette partie consiste à calculer la Partie III pour chaque fenêtre (période) temporelle fixée au préalable.<br>
-
-Exemple de résultat d'éxecution dans le dossier json.<br>
-Format : paire_0_a_10_1_2_3<br>
