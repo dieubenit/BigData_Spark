@@ -23,17 +23,20 @@ Voici cinq lignes de données à titre d'exemple :
 ### 2.1 Partie I
 
 ### Consigne :
+Lien github pour les sources : https://github.com/dieubenit/BigData_Spark
+Lien fichier jar : upload en cours...
 Placer winutils dans C:\\winutils\\bin si nécessaire.(remplacez chemin_vers_winutils par - pour appeler le chemin par default) <br>
-Utilisation du programme :
- > "java -jar ./mySpark.jar [- OU chemin_vers_winutils] [numero_partie] [fenetre_temp]" <br>
+Placer le fichier jar dans le même dossier que auth_500000.txt.<br>
+Utilisation du programme : <br>
+ "java -jar ./mySpark.jar [- OU chemin_vers_winutils] [numero_partie] [fenetre_temp]" <br>
 mySpark lance toutes les parties en séquence par default si lancé sans argument ou <br> 
 seulement avec winutils ou avec l'argument numero_partie invalide.<br>
 exemples :<br>
- > java -jar ./mySpark.jar - 1<br>
+  java -jar ./mySpark.jar - 1<br>
 lance la partie 1 avec winutils par default<br>
- > java -jar ./mySpark.jar - 4<br>
+  java -jar ./mySpark.jar - 4<br>
 lance la partie 4 avec fenetre 60 par default<br>
- > java -jar ./mySpark.jar - 4 10<br>
+  java -jar ./mySpark.jar - 4 10<br>
 lance la partie 4 avec fenetre 10<br>
 
 #### Question 1. Lire le fichier logs.
