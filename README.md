@@ -11,7 +11,7 @@ Master : SIRAV
 Le but de ce projet est d'analyser les logs d'authentifications aux machines. Ces données
 représentent les événements d'authentifications collectés à partir d'ordinateurs individuels
 de bureau et serveurs qui sont dotés du système d'exploitation Windows. Chaque événement se trouve sur une ligne distincte sous la forme : "temps, utilisateur_source@domaine, utilisateur_destination@domaine, ordinateur_source, ordinateur_destination, type d'authentificationscation, type de connexion, orientation d'authentificationscation, succès / échec" et représente un événement d'authentificationscation à l'instant donné.
-Voici trois lignes de données à titre d'exemple :
+Voici cinq lignes de données à titre d'exemple :
 
 ````````bash
 1,C625$@DOM1,U147@DOM1,C625,C625,Negotiate,Batch,LogOn,Success
@@ -117,23 +117,109 @@ Top 10 Utilisateur par Ordinateur
 +-----+------------------+
 `````
 ###  2.2 Partie II
+### Consigne:
+
 #### Question 1-a)
 `````
++------------+-----------+-----+
+|Utilisateurs| Connexions|Poids|
++------------+-----------+-----+
+|  C585$@DOM1|  C585,C586| 3376|
+|  C743$@DOM1|  C743,C586| 2898|
+|  C480$@DOM1|  C480,C625| 1670|
+|    U19@DOM1|  C229,C229| 1336|
+|    U48@DOM1|  C419,C419| 1054|
+|  C599$@DOM1| C1619,C101| 1037|
+|    U34@DOM1|  C921,C921| 1029|
+|  C529$@DOM1|  C529,C529| 1001|
+|    U53@DOM1|C1710,C1710|  976|
+|  C599$@DOM1| C1619,C553|  917|
++------------+-----------+-----+
 `````
 #### Question 1-b)
-````````python
+````````
++--------------------------+
+|Utilisateurs et Connexions|
++--------------------------+
+|               C2962$@DOM1|
+|               C3608$@DOM1|
+|               C2470$@DOM1|
+|               C4248$@DOM1|
+|               C2645$@DOM1|
+|               C3844$@DOM1|
+|               C1800$@DOM1|
+|               C2641$@DOM1|
+|               C3787$@DOM1|
+|               C3572$@DOM1|
++--------------------------+
 ````````
 #### Question 2-a)
 `````
++--------------------+-------------+-----+
+|        Utilisateurs|   Connexions|Poids|
++--------------------+-------------+-----+
+|            U22@DOM1|LogOn,Success| 6342|
+|ANONYMOUS LOGON@C586|LogOn,Success| 5906|
+|            U66@DOM1|LogOn,Success| 4885|
+|          C599$@DOM1|LogOn,Success| 3837|
+|          C585$@DOM1|LogOn,Success| 3384|
+|         C1114$@DOM1|LogOn,Success| 2929|
+|          C743$@DOM1|LogOn,Success| 2925|
+|          C104$@DOM1|LogOn,Success| 2725|
+|          C567$@DOM1|LogOn,Success| 2460|
+|          C123$@DOM1|LogOn,Success| 2345|
++--------------------+-------------+-----+
 `````
 #### Question 2-b)
-````````python
-````````
+````
++-------------------------+
+|Utlisateurs et Connexions|
++-------------------------+
+|              C4248$@DOM1|
+|              C3608$@DOM1|
+|               C254$@DOM1|
+|              C2645$@DOM1|
+|              C3542$@DOM1|
+|                C64$@DOM1|
+|              C3572$@DOM1|
+|              C3787$@DOM1|
+|              C1210$@DOM1|
+|              C3844$@DOM1|
++-------------------------+
+````
 #### Question 3-a)
 `````
++--------------------+--------------------+-----+
+|        Utilisateurs|          Connexions|Poids|
++--------------------+--------------------+-----+
+|            U22@DOM1|    U22@DOM1,Success| 6342|
+|ANONYMOUS LOGON@C586|ANONYMOUS LOGON@C...| 5906|
+|            U66@DOM1|    U66@DOM1,Success| 4885|
+|          C599$@DOM1|  C599$@DOM1,Success| 3837|
+|          C585$@DOM1|  C585$@DOM1,Success| 3384|
+|         C1114$@DOM1| C1114$@DOM1,Success| 2929|
+|          C743$@DOM1|  C743$@DOM1,Success| 2925|
+|          C104$@DOM1|  C104$@DOM1,Success| 2725|
+|          C567$@DOM1|  C567$@DOM1,Success| 2460|
+|          C123$@DOM1|  C123$@DOM1,Success| 2345|
++--------------------+--------------------+-----+
 `````
 #### Question 2-b)
 `````
++--------------------------+
+|Utilisateurs et Connexions|
++--------------------------+
+|               C4248$@DOM1|
+|               C3608$@DOM1|
+|                C254$@DOM1|
+|               C2645$@DOM1|
+|               C3542$@DOM1|
+|                 C64$@DOM1|
+|               C3572$@DOM1|
+|               C3787$@DOM1|
+|               C3844$@DOM1|
+|               C1210$@DOM1|
++--------------------------+
 `````
 ### 2.3 Partie III
 ##### Objectif :
