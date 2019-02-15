@@ -15,6 +15,12 @@ import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SparkSession;
 import org.apache.spark.sql.types.StructType;
 
+/**
+ * 
+ * @author Guillaume Lipski
+ * @author Innocent Ouefio
+ *
+ */
 public class MySpark {
 
 	private SparkSession spark;
