@@ -28,7 +28,7 @@ L'éxecution de la Partie 3 uniquement est aussi possible avec la même méthode
 L'application éxecute la Partie 4 par défault,possibilité de modifier la valeur static temps.
 
 #### Question 1. Lire le fichier logs.
-````````python
+``````````python
 df= spark.read()
 				.option("header", "true")
 				.option("delimiter", ",")
@@ -65,7 +65,7 @@ df= spark.read()
 
     +-----+--------------------------+-------------------------------+-----------------+----------------------+---------------------+-----------------+----------------------------+------------+
 
-````````
+````````````
 #### Question 2. Suppression des lignes de logs qui contiennent le symbole ' ?'.
 ````````python
 |temps|utilisateur_sourceAdomaine|utilisateur_destinationAdomaine|ordinateur_source|ordinateur_destination|type_authentification|type_de_connexion|orientation_authentification|succes_echec|
