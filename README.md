@@ -13,13 +13,13 @@ représentent les événements d'authentifications collectés à partir d'ordina
 de bureau et serveurs qui sont dotés du système d'exploitation Windows. Chaque événement se trouve sur une ligne distincte sous la forme : "temps, utilisateur_source@domaine, utilisateur_destination@domaine, ordinateur_source, ordinateur_destination, type d'authentificationscation, type de connexion, orientation d'authentificationscation, succès / échec" et représente un événement d'authentificationscation à l'instant donné.
 Voici trois lignes de données à titre d'exemple :
 
-````bash
+````````bash
 1,C625$@DOM1,U147@DOM1,C625,C625,Negotiate,Batch,LogOn,Success
 1,C653$@DOM1,SYSTEM@C653,C653,C653,Negotiate,Service,LogOn,Success
 1,C660$@DOM1,SYSTEM@C660,C660,C660,Negotiate,Service,LogOn,Success
 3,C625$@DOM1,U147@DOM1,C625,C625,Negotiate,Batch,LogOn,Success
 4,C600$@DOM1,U147@DOM1,C600,C600,Negotiate,Batch,LogOn,Success
-````
+````````
 ### 2.1 Partie I
 ### Consigne :
 Changer le chemin de winutils si nécessaire.<br>
@@ -28,7 +28,7 @@ L'éxecution de la Partie 3 uniquement est aussi possible avec la même méthode
 L'application éxecute la Partie 4 par défault,possibilité de modifier la valeur static temps.
 
 #### Question 1. Lire le fichier logs.
-``````python
+````````python
 df= spark.read()
 				.option("header", "true")
 				.option("delimiter", ",")
@@ -65,9 +65,9 @@ df= spark.read()
 
     +-----+--------------------------+-------------------------------+-----------------+----------------------+---------------------+-----------------+----------------------------+------------+
 
-``````
+````````
 #### Question 2. Suppression des lignes de logs qui contiennent le symbole ' ?'.
-``````python
+````````python
 |temps|utilisateur_sourceAdomaine|utilisateur_destinationAdomaine|ordinateur_source|ordinateur_destination|type_authentification|type_de_connexion|orientation_authentification|succes_echec|
 +-----+--------------------------+-------------------------------+-----------------+----------------------+---------------------+-----------------+----------------------------+------------+
 |    1|               C1020$@DOM1|                   SYSTEM@C1020|            C1020|                 C1020|            Negotiate|          Service|                       LogOn|     Success|
@@ -91,13 +91,13 @@ df= spark.read()
 |    1|               C1504$@DOM1|                      U45@C1504|            C1504|                 C1504|            Negotiate|            Batch|                       LogOn|     Success|
 |    1|               C1543$@DOM1|                   SYSTEM@C1543|            C1543|                 C1543|            Negotiate|          Service|                       LogOn|     Success|
 +-----+--------------------------+-------------------------------+-----------------+----------------------+---------------------+-----------------+----------------------------+------------+
-``````
+````````
 
 #### Question 3. Calculons le nombre d'utilisation d'une machine (ordinateur_source) par un utilisateur (utilisateur_source@domaine).
-``````python
-``````
+````````python
+````````
 #### Question 4. Affichons le top 10 des accès les plus fréquents.
-``````python
+````````python
 
 Top 10 Utilisateur par Ordinateur
 +-----+------------------+
@@ -114,26 +114,26 @@ Top 10 Utilisateur par Ordinateur
 |1930 |C538$@DOM1, C539  |
 |1907 |U22@DOM1, C506    |
 +-----+------------------+
-``````
+````````
 ###  2.2 Partie II
 #### Question 1-a)
-``````python
-``````
+````````python
+````````
 #### Question 1-b)
-``````python
-``````
+````````python
+````````
 #### Question 2-a)
-``````python
-``````
+````````python
+````````
 #### Question 2-b)
-``````python
-``````
+````````python
+````````
 #### Question 3-a)
-``````python
-``````
+````````python
+````````
 #### Question 2-b)
-``````python
-``````
+````````python
+````````
 ### 2.3 Partie III
 ##### Objectif :
 La troisième partie consiste à généraliser la Partie II. Le but est de calculer pour chaque colonne, la relation entre chaque paires de colonnes du jeu de données.
