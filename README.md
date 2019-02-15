@@ -240,12 +240,6 @@ Nous avons trié par odre décroissant sur le poids.
 La troisième partie consiste à généraliser la Partie II. Le but est de calculer pour chaque colonne, la relation entre chaque paires de colonnes du jeu de données.<br>
 
 Exemple de résultat d'éxecution dans le dossier json. <br>
-Format : paire_1_2_3<br>
-
-### 2.4 Partie IV
-Contrairement à la partie III, dans cette partie le temps est pris en considération. En effet, cette partie consiste à calculer la Partie III pour chaque fenêtre (période) temporelle fixée au préalable.<br>
-
-Exemple de résultat d'éxecution dans le dossier json.<br>
 ````
 Format : paire_0_a_10_1_2_3<br>
 part-00000-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
@@ -262,3 +256,28 @@ part-00010-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
 part-00011-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
 part-00012-7149fac2-e3a0-4e4c-bdc5-6fc548ac6c06-c000.json
 ````
+Format : paire_1_2_3<br>
+````
+paire : (1(2,3))
+paire : (1(2,4))
+paire : (1(2,5))
+paire : (1(2,6))
+paire : (1(2,7))
+paire : (1(2,8))
+paire : (1(3,4))
+paire : (1(3,5))
+paire : (1(3,6))
+paire : (1(3,7))
+paire : (1(3,8))
+paire : (1(4,5))
+paire : (1(4,6))
+paire : (1(4,7))
+paire : (1(4,8))
+paire : (1(5,6))
+paire : (1(5,7))
+````
+
+### 2.4 Partie IV
+Contrairement à la partie III, dans cette partie le temps est pris en considération. En effet, cette partie consiste à calculer la Partie III pour chaque fenêtre (période) temporelle fixée au préalable.<br>
+
+Exemple de résultat d'éxecution dans le dossier json.<br>
