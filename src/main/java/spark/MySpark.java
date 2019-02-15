@@ -21,7 +21,7 @@ public class MySpark {
 	private Dataset<Row> df;
 	public static final String winutilsLocation="C:\\winutils\\"; 
 	public static final String jsonDestinationFolder=".\\json\\"; 
-	public static final int temps=1; 
+	public static final int temps=60; 
 	public static final String[] colName= {"temps",
 			"utilisateur_sourceAdomaine",
 			"utilisateur_destinationAdomaine",
@@ -54,7 +54,7 @@ public class MySpark {
 		//autoPaire(df);
 
 		//partie 4
-		autoPaireTemps(df,temps);
+		//autoPaireTemps(df,temps);
 
 		ms.closeSpark();
 	}
@@ -177,7 +177,7 @@ public class MySpark {
 
 	public static Dataset<Row> listePaire(Dataset<Row> df,String col1,String col2,String col3,String nomresultat){
 		Dataset<Row> resultat=null;
-		resultat = df.select(col1).union(df.withColumn(nomresultat, concat(df.col(col2),lit(", "), df.col(col3))).select(nomresultat).distinct()).toDF(nomresultat);
+		resultat = df.select(col1).distinct().union(df.withColumn(nomresultat, concat(df.col(col2),lit(", "), df.col(col3))).select(nomresultat).distinct()).toDF(nomresultat);
 		return resultat;
 	}
 
